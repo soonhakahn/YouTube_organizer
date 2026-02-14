@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-02-14T20:48:06+09:00",
+  "updatedAt": "2026-02-15T08:16:05+09:00",
   "status": "ok",
-  "summary": "# YouTube Organizer\n업데이트: 2026-02-14T20:48:06+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
+  "summary": "# YouTube Organizer\n업데이트: 2026-02-15T08:16:05+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
   "sections": [
     {
       "title": "Watch Later",
@@ -1036,6 +1036,16 @@
           "publishedAt": "2026-01-20T21:35:35Z",
           "thumbnail": "https://i.ytimg.com/vi/0ffYAhPfpS0/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=0ffYAhPfpS0",
+          "kind": "playlist",
+          "playlistTitle": "Opencode"
+        },
+        {
+          "videoId": "Ezpc_OC68Ng",
+          "title": "OpenClaw 자비스 이렇게 씁니다! | AI 대시보드 + 비트코인 자동매매 실전 공개",
+          "channel": "배움의 달인 (AI·자동화)",
+          "publishedAt": "2026-02-14T09:00:20Z",
+          "thumbnail": "https://i.ytimg.com/vi/Ezpc_OC68Ng/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Ezpc_OC68Ng",
           "kind": "playlist",
           "playlistTitle": "Opencode"
         },
