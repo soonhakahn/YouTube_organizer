@@ -33,7 +33,15 @@ for a in "$@"; do
 done
 
 if [[ "$PUSH" == "1" ]]; then
-  "$PY" scripts/yt_sync.py --push "${ARGS[@]}"
+  if ((${#ARGS[@]})); then
+    "$PY" scripts/yt_sync.py --push "${ARGS[@]}"
+  else
+    "$PY" scripts/yt_sync.py --push
+  fi
 else
-  "$PY" scripts/yt_sync.py "${ARGS[@]}"
+  if ((${#ARGS[@]})); then
+    "$PY" scripts/yt_sync.py "${ARGS[@]}"
+  else
+    "$PY" scripts/yt_sync.py
+  fi
 fi
