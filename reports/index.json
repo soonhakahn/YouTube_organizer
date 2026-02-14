@@ -1,23 +1,1245 @@
 {
-  "updatedAt": null,
-  "status": "pending_oauth",
-  "summary": "아직 OAuth 연동 전입니다.\n\nMac에서 준비되면: `유튜브 OAuth 시작`\n이후 이 PWA에서 최신 정리/목록이 표시됩니다.",
+  "updatedAt": "2026-02-14T20:48:06+09:00",
+  "status": "ok",
+  "summary": "# YouTube Organizer\n업데이트: 2026-02-14T20:48:06+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
   "sections": [
-    {
-      "title": "Pinned",
-      "items": []
-    },
     {
       "title": "Watch Later",
       "items": []
     },
     {
       "title": "Liked",
-      "items": []
+      "items": [
+        {
+          "videoId": "S50nDjJsM6M",
+          "title": "이곳은 중국이 아닙니다. 경기도 인데요 #부동산",
+          "channel": "위험한 부동산",
+          "publishedAt": "2025-03-25T17:15:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/S50nDjJsM6M/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=S50nDjJsM6M",
+          "kind": "liked"
+        },
+        {
+          "videoId": "LPrbFhlnJ38",
+          "title": "mbti보다 정확한 나의 성향 테스트",
+          "channel": "히든캐치",
+          "publishedAt": "2024-08-03T03:01:43Z",
+          "thumbnail": "https://i.ytimg.com/vi/LPrbFhlnJ38/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=LPrbFhlnJ38",
+          "kind": "liked"
+        },
+        {
+          "videoId": "i1wP4PY3PJo",
+          "title": "아이폰 유저 99%가 모르는 단축어 핵꿀팁 2가지 #shorts",
+          "channel": "티노",
+          "publishedAt": "2023-06-25T06:47:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/i1wP4PY3PJo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=i1wP4PY3PJo",
+          "kind": "liked"
+        },
+        {
+          "videoId": "vdrxQFmKZNk",
+          "title": "Private video",
+          "channel": "soonhak ahn",
+          "publishedAt": "2024-09-06T16:27:48Z",
+          "thumbnail": null,
+          "url": "https://www.youtube.com/watch?v=vdrxQFmKZNk",
+          "kind": "liked"
+        },
+        {
+          "videoId": "54-UioSpI08",
+          "title": "챗GPT 클로드 프롬프트 엔지니어링 마스터하고 업무 효율 10배 높이는 핵심 기술 대공개",
+          "channel": "AI 겸임교수 이종범 ",
+          "publishedAt": "2024-07-06T05:20:22Z",
+          "thumbnail": "https://i.ytimg.com/vi/54-UioSpI08/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=54-UioSpI08",
+          "kind": "liked"
+        },
+        {
+          "videoId": "my51KoGiBUQ",
+          "title": "김용민-정청래-박정훈 협공 못 당해내는 이종섭",
+          "channel": "민중의소리 MediaVop",
+          "publishedAt": "2024-06-21T07:16:58Z",
+          "thumbnail": "https://i.ytimg.com/vi/my51KoGiBUQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=my51KoGiBUQ",
+          "kind": "liked"
+        },
+        {
+          "videoId": "yGB2hB7th-M",
+          "title": "재혼은 못하겠네..은지원의 충격적인 이혼사유",
+          "channel": "오늘 머 이슈?",
+          "publishedAt": "2024-05-14T09:00:44Z",
+          "thumbnail": "https://i.ytimg.com/vi/yGB2hB7th-M/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=yGB2hB7th-M",
+          "kind": "liked"
+        },
+        {
+          "videoId": "97cfdkXOO-4",
+          "title": "이규형 촬영 태도 논란? (속닥속닥)🫢 계속해서 배우는 후배 #송강호 #이규형 #LeeKyoohyung #삼식이삼촌 #shorts",
+          "channel": "티브이데일리",
+          "publishedAt": "2024-05-08T05:20:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/97cfdkXOO-4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=97cfdkXOO-4",
+          "kind": "liked"
+        },
+        {
+          "videoId": "6IMW7y5r67E",
+          "title": "정권심판론이 힘을 얻으면서 수도권 보수는 투표를 포기하는 분위기가 강해지고 있으며, 이런 현상은 다른 접전 지역으로 점차 확산되고 있다",
+          "channel": "스픽스",
+          "publishedAt": "2024-04-06T15:42:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/6IMW7y5r67E/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=6IMW7y5r67E",
+          "kind": "liked"
+        },
+        {
+          "videoId": "MMdYwjFL_28",
+          "title": "김어준의 겸손은힘들다 뉴스공장 2024년 3월 7일 목요일 [용혜인, 한창민, 최혁진, 김민석, 박범계, 총선후보 릴레이 인터뷰, 해뜰날클럽, 영화공장]",
+          "channel": "김어준의 겸손은힘들다 뉴스공장",
+          "publishedAt": "2024-03-07T00:35:40Z",
+          "thumbnail": "https://i.ytimg.com/vi/MMdYwjFL_28/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=MMdYwjFL_28",
+          "kind": "liked"
+        },
+        {
+          "videoId": "TD2w9RFxQMY",
+          "title": "조국 신당 뜨고, 개혁신당 사실상 공중분해~ 조국 신당 지지율에 정치판 들썩  [데스크회의63회]",
+          "channel": "시사타파NEWS",
+          "publishedAt": "2024-02-19T05:33:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/TD2w9RFxQMY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=TD2w9RFxQMY",
+          "kind": "liked"
+        },
+        {
+          "videoId": "Sq_KADYd7ws",
+          "title": "유우성, 엄태웅 드디어 붙었다!",
+          "channel": "수석보좌관",
+          "publishedAt": "2023-10-13T23:00:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/Sq_KADYd7ws/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Sq_KADYd7ws",
+          "kind": "liked"
+        },
+        {
+          "videoId": "tDwx45UiHCQ",
+          "title": "소매재고법 그동안 제낀 사람 주모오옥~~! [김수석의 재무회계] 2.6 소매재고법 문제풀이 l cpa 김수석",
+          "channel": "김용재의 1분 회계학",
+          "publishedAt": "2020-01-04T14:39:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/tDwx45UiHCQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=tDwx45UiHCQ",
+          "kind": "liked"
+        },
+        {
+          "videoId": "oJzpOM42Hw0",
+          "title": "[사회복지사1급] 사회복지실천론이 어려운 이유_#shorts",
+          "channel": "정훈스쿨",
+          "publishedAt": "2023-01-17T05:37:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/oJzpOM42Hw0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=oJzpOM42Hw0",
+          "kind": "liked"
+        },
+        {
+          "videoId": "O1Rxj94KcPY",
+          "title": "Private video",
+          "channel": "soonhak ahn",
+          "publishedAt": "2023-10-31T21:04:51Z",
+          "thumbnail": null,
+          "url": "https://www.youtube.com/watch?v=O1Rxj94KcPY",
+          "kind": "liked"
+        },
+        {
+          "videoId": "tb9bfQXR02E",
+          "title": "의과생은 공부밖에 안할 것 같은데 [전과자-이창섭] (건국대-수의학과)",
+          "channel": "백수가되고싶은푸들",
+          "publishedAt": "2023-06-15T14:00:42Z",
+          "thumbnail": "https://i.ytimg.com/vi/tb9bfQXR02E/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=tb9bfQXR02E",
+          "kind": "liked"
+        },
+        {
+          "videoId": "ipmw0dTJzeI",
+          "title": "엑셀] 실무에 필수 함수 XLOOKUP 👍",
+          "channel": "짤막한 강좌",
+          "publishedAt": "2023-01-11T09:16:39Z",
+          "thumbnail": "https://i.ytimg.com/vi/ipmw0dTJzeI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ipmw0dTJzeI",
+          "kind": "liked"
+        },
+        {
+          "videoId": "xgf1pWrnAlo",
+          "title": "엑셀 시간 계산, 직장인이 꼭 알아야 할 핵심 노하우⚡ (1분 정리) #shorts",
+          "channel": "오빠두엑셀 l 엑셀 강의 대표채널",
+          "publishedAt": "2023-02-08T13:00:42Z",
+          "thumbnail": "https://i.ytimg.com/vi/xgf1pWrnAlo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=xgf1pWrnAlo",
+          "kind": "liked"
+        },
+        {
+          "videoId": "DQCywKH46Uw",
+          "title": "파일 이름 한 번에 바꾸는 방법⚡(알아두면 정말 편해요!) #Shorts",
+          "channel": "오빠두엑셀 l 엑셀 강의 대표채널",
+          "publishedAt": "2023-01-06T13:30:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/DQCywKH46Uw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=DQCywKH46Uw",
+          "kind": "liked"
+        },
+        {
+          "videoId": "wQ5ZlBSMTkg",
+          "title": "초정통파 극보수 유대인의 삶 - [70] (풀버전)",
+          "channel": "캡틴따거 Captain Brother",
+          "publishedAt": "2022-12-17T07:14:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/wQ5ZlBSMTkg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=wQ5ZlBSMTkg",
+          "kind": "liked"
+        },
+        {
+          "videoId": "jlkVH3Jmkgw",
+          "title": "혹독한 스타트업 세계, 혼자서도 살아남는 법/많이 오른 배터리 주가, 추가 상승 여력은?/남는 쌀 시장격리, 왜 뜨거운 이슈인가/파월 의장이 원하는 적정 주가는 얼마?",
+          "channel": "삼프로TV 3PROTV",
+          "publishedAt": "2022-11-15T14:06:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/jlkVH3Jmkgw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=jlkVH3Jmkgw",
+          "kind": "liked"
+        },
+        {
+          "videoId": "E3wd6upm3Ls",
+          "title": "그동안 복수의 날만을 기다린 성수! 드디어 식단 중인 양관장 앞에 나타나는데.. \"관장님 저 여기서 삼겹살 비빔면 좀 먹고 갈게요^^\" BossYang's MUKBANG",
+          "channel": "양치승의 막튜브 (YangBoss MakTube)",
+          "publishedAt": "2022-10-02T07:00:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/E3wd6upm3Ls/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=E3wd6upm3Ls",
+          "kind": "liked"
+        },
+        {
+          "videoId": "nFqRWfCyJ-M",
+          "title": "2차전지 관련주! 슈퍼개미 이세무사의 장마감 정리📈",
+          "channel": "슈퍼개미 이세무사TV",
+          "publishedAt": "2022-10-21T09:37:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/nFqRWfCyJ-M/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=nFqRWfCyJ-M",
+          "kind": "liked"
+        },
+        {
+          "videoId": "C_UsgRpyrUM",
+          "title": "[깨봉수학] 삼각함수 종합편 _ 초등학생도 10초면 끝! [수학 공부법](Feat. cos)",
+          "channel": "인공지능수학 깨봉",
+          "publishedAt": "2020-04-10T11:11:39Z",
+          "thumbnail": "https://i.ytimg.com/vi/C_UsgRpyrUM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=C_UsgRpyrUM",
+          "kind": "liked"
+        },
+        {
+          "videoId": "5uDtWRUGw5E",
+          "title": "[영어쉐도잉100문장] 🧑🏻‍💻 회사에서 매~일 쓰는 '찐 회사 생활' 영어 100문장 모음! | 영문장 only",
+          "channel": "헤일리 쌤",
+          "publishedAt": "2022-08-17T07:56:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/5uDtWRUGw5E/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=5uDtWRUGw5E",
+          "kind": "liked"
+        },
+        {
+          "videoId": "KbV4Q4XJTpU",
+          "title": "[클로징벨 라이브] TSMC 덕분에 삼성전자 SK하이닉스 대급등, 올라도 내종목은 안오르는 시장_22.07.15_한국투자증권 이용진 차장, 김대준 수석연구원",
+          "channel": "삼프로TV 3PROTV",
+          "publishedAt": "2022-07-15T07:37:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/KbV4Q4XJTpU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=KbV4Q4XJTpU",
+          "kind": "liked"
+        }
+      ]
     },
     {
       "title": "Playlists",
-      "items": []
+      "items": [
+        {
+          "videoId": "8gV6xsof964",
+          "title": "We built a $1M AI Agent in 14 days",
+          "channel": "jayhoovy",
+          "publishedAt": "2026-02-07T04:27:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/8gV6xsof964/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=8gV6xsof964",
+          "kind": "playlist",
+          "playlistTitle": "Ai making"
+        },
+        {
+          "videoId": "NrvTNeeZ0HU",
+          "title": "키움증권 HTS 세팅 '이것' 만 제대로 해두시면 수익이 무섭게 쌓일겁니다. 12년차 전업투자자의 키움증권 설정 전부 공개합니다.",
+          "channel": "주식당",
+          "publishedAt": "2025-10-28T09:15:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/NrvTNeeZ0HU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=NrvTNeeZ0HU",
+          "kind": "playlist",
+          "playlistTitle": "MTS 화면설정"
+        },
+        {
+          "videoId": "jae2bVCCokc",
+          "title": "skills.sh 하나면 AI 코딩 레벨이 달라집니다",
+          "channel": "메이커 에반 | Maker Evan",
+          "publishedAt": "2026-02-13T04:05:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/jae2bVCCokc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=jae2bVCCokc",
+          "kind": "playlist",
+          "playlistTitle": "Skill.sh"
+        },
+        {
+          "videoId": "SCVgdms-s80",
+          "title": "GPT-5 비상? 코딩 1위 찍은 역대급 오픈소스 GLM 5 🚀",
+          "channel": "Nova AI",
+          "publishedAt": "2026-02-13T08:30:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/SCVgdms-s80/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=SCVgdms-s80",
+          "kind": "playlist",
+          "playlistTitle": "GLM5"
+        },
+        {
+          "videoId": "GvQ0dnkyYyo",
+          "title": "일주일치 업무 10분 컷! 상위 1%만 몰래쓰는 클로드 코드 SKILLS 치트키 공개",
+          "channel": "소스놀이터",
+          "publishedAt": "2026-02-03T07:15:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/GvQ0dnkyYyo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=GvQ0dnkyYyo",
+          "kind": "playlist",
+          "playlistTitle": "Skills"
+        },
+        {
+          "videoId": "30q_S5NPbrI",
+          "title": "수익의 90%는 매매기법이 아니라, 종목선정에서 수익이 결정됩니다. 매일 종목선정 루틴과 무조건 봐야하는 것.",
+          "channel": "주식당",
+          "publishedAt": "2026-01-27T09:00:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/30q_S5NPbrI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=30q_S5NPbrI",
+          "kind": "playlist",
+          "playlistTitle": "주도주"
+        },
+        {
+          "videoId": "lrQI8j45oWk",
+          "title": "쓰는 순간 입에서 극찬 나온다... 맥 필수 프로그램 TOP8 | 맥북프로그램, 맥북어플, 맥북프로그램추천, 맥북어플추천, 맥어플추천",
+          "channel": "떼끄",
+          "publishedAt": "2026-01-22T13:45:55Z",
+          "thumbnail": "https://i.ytimg.com/vi/lrQI8j45oWk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=lrQI8j45oWk",
+          "kind": "playlist",
+          "playlistTitle": "Macbook"
+        },
+        {
+          "videoId": "P2hImcYvik0",
+          "title": "\"이것만 알면 맥북 고수 소리 듣습니다\" 무조건 해야하는 맥북 필수 설정 5가지🔥┃애플┃맥북┃맥북사용법┃맥북프로┃맥북에어┃맥북추천┃맥북초기설정┃M4┃",
+          "channel": "리뷰머신",
+          "publishedAt": "2025-12-19T07:00:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/P2hImcYvik0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=P2hImcYvik0",
+          "kind": "playlist",
+          "playlistTitle": "Macbook"
+        },
+        {
+          "videoId": "T02h7qEkItc",
+          "title": "알고있으면 인생 편해지는 맥북 필수 무료어플 3가지 | 안깔면 100% 손해봅니다!",
+          "channel": "딥워크",
+          "publishedAt": "2025-06-05T03:00:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/T02h7qEkItc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=T02h7qEkItc",
+          "kind": "playlist",
+          "playlistTitle": "Macbook"
+        },
+        {
+          "videoId": "CovGWRTTRdo",
+          "title": "맥북 사면 이것부터 설치하세요",
+          "channel": "디에디트 THE EDIT",
+          "publishedAt": "2024-01-16T08:07:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/CovGWRTTRdo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=CovGWRTTRdo",
+          "kind": "playlist",
+          "playlistTitle": "Macbook"
+        },
+        {
+          "videoId": "gFRZ9t1a0CE",
+          "title": "🍎 (알프레드, 노션X) 맥북 추천앱 10개모음집.2024ver",
+          "channel": "리유남-리뷰하는유부남",
+          "publishedAt": "2024-06-23T08:25:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/gFRZ9t1a0CE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=gFRZ9t1a0CE",
+          "kind": "playlist",
+          "playlistTitle": "Macbook"
+        },
+        {
+          "videoId": "jDOdJdUAvRk",
+          "title": "맥 구입하면 무조건 설치하는 무료 앱 7가지",
+          "channel": "테크잡화점",
+          "publishedAt": "2025-04-06T11:03:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/jDOdJdUAvRk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=jDOdJdUAvRk",
+          "kind": "playlist",
+          "playlistTitle": "Macbook"
+        },
+        {
+          "videoId": "6rO3nKtmuYg",
+          "title": "애플 제품 잘 쓰는 사람들은 이렇게 씁니다｜맥북·아이패드 사고 이 기능 몰랐다면 꼭 써보세요!",
+          "channel": "주연 ZUYONI",
+          "publishedAt": "2025-04-06T08:12:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/6rO3nKtmuYg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=6rO3nKtmuYg",
+          "kind": "playlist",
+          "playlistTitle": "Macbook"
+        },
+        {
+          "videoId": "sNxl7fLZvQU",
+          "title": "맥 구입하면 무조건 설치하는 앱 5가지",
+          "channel": "테크잡화점",
+          "publishedAt": "2025-07-03T11:03:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/sNxl7fLZvQU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=sNxl7fLZvQU",
+          "kind": "playlist",
+          "playlistTitle": "Macbook"
+        },
+        {
+          "videoId": "vA94F43rl-k",
+          "title": "맥북 쓰면 이거 꼭 해보세요🔥 macOS 신기능! AI로 합체되는 단축어 자동화",
+          "channel": "방구석 리뷰룸",
+          "publishedAt": "2026-01-18T11:13:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/vA94F43rl-k/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=vA94F43rl-k",
+          "kind": "playlist",
+          "playlistTitle": "단축어"
+        },
+        {
+          "videoId": "Qkqe-uRhQJE",
+          "title": "ClawdBot is the most powerful AI tool I’ve ever used in my life. Here’s how to set it up",
+          "channel": "Alex Finn",
+          "publishedAt": "2026-01-24T19:27:52Z",
+          "thumbnail": "https://i.ytimg.com/vi/Qkqe-uRhQJE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Qkqe-uRhQJE",
+          "kind": "playlist",
+          "playlistTitle": "Clawdbot"
+        },
+        {
+          "videoId": "3DBpfB0ao50",
+          "title": "Clawdbot in Less Than 2 Minutes (FREE 24/7 HOSTING)",
+          "channel": "Tech Friend AJ",
+          "publishedAt": "2026-01-24T04:49:18Z",
+          "thumbnail": "https://i.ytimg.com/vi/3DBpfB0ao50/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=3DBpfB0ao50",
+          "kind": "playlist",
+          "playlistTitle": "Clawdbot"
+        },
+        {
+          "videoId": "-1aE9tEPgvk",
+          "title": "ClawdBot is Absolutely INSANE!",
+          "channel": "Julian Goldie SEO",
+          "publishedAt": "2026-01-25T02:42:39Z",
+          "thumbnail": "https://i.ytimg.com/vi/-1aE9tEPgvk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=-1aE9tEPgvk",
+          "kind": "playlist",
+          "playlistTitle": "Clawdbot"
+        },
+        {
+          "videoId": "ikDNH4aG-lI",
+          "title": "Clawdbot + Mac Mini / VPS: The ULTIMATE LOCAL AI Assistant Agent has ARRIVED!",
+          "channel": "AICodeKing",
+          "publishedAt": "2026-01-25T09:09:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/ikDNH4aG-lI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ikDNH4aG-lI",
+          "kind": "playlist",
+          "playlistTitle": "Clawdbot"
+        },
+        {
+          "videoId": "9MGufXi8y6I",
+          "title": "24시간 나 대신 일하는 AI 동료, Clawdbot 설치 및 활용 가이드",
+          "channel": "Nova AI",
+          "publishedAt": "2026-01-26T02:00:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/9MGufXi8y6I/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=9MGufXi8y6I",
+          "kind": "playlist",
+          "playlistTitle": "Clawdbot"
+        },
+        {
+          "videoId": "PrWZe0VmnGg",
+          "title": "Clawdbot Will Make New Millionaires in 2026, here how (INSANE)",
+          "channel": "Kevin Badi | AI Operating Systems ",
+          "publishedAt": "2026-01-26T02:31:17Z",
+          "thumbnail": "https://i.ytimg.com/vi/PrWZe0VmnGg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=PrWZe0VmnGg",
+          "kind": "playlist",
+          "playlistTitle": "Clawdbot"
+        },
+        {
+          "videoId": "DAmhPd21ZHo",
+          "title": "Clawdbot is WILD!",
+          "channel": "Julian Goldie SEO",
+          "publishedAt": "2026-01-26T03:00:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/DAmhPd21ZHo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=DAmhPd21ZHo",
+          "kind": "playlist",
+          "playlistTitle": "Clawdbot"
+        },
+        {
+          "videoId": "J-NRd3e0OkU",
+          "title": "Clawdbot + Antigravity / Gemini CLI: EASY Way to run CLAWDBOT for FREE!",
+          "channel": "AICodeKing",
+          "publishedAt": "2026-01-26T09:15:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/J-NRd3e0OkU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=J-NRd3e0OkU",
+          "kind": "playlist",
+          "playlistTitle": "Clawdbot"
+        },
+        {
+          "videoId": "h9EXG9BJqqI",
+          "title": "Clawdbot IS NUTS: This New OpenSource AI Employee That Runs 24/7",
+          "channel": "Income stream surfers",
+          "publishedAt": "2026-01-24T17:54:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/h9EXG9BJqqI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=h9EXG9BJqqI",
+          "kind": "playlist",
+          "playlistTitle": "Clawdbot"
+        },
+        {
+          "videoId": "2zWGFLrTVmI",
+          "title": "I just replaced myself with Clawdbot… here's how",
+          "channel": "David Ondrej",
+          "publishedAt": "2026-01-26T13:07:58Z",
+          "thumbnail": "https://i.ytimg.com/vi/2zWGFLrTVmI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=2zWGFLrTVmI",
+          "kind": "playlist",
+          "playlistTitle": "Clawdbot"
+        },
+        {
+          "videoId": "U8kXfk8enrY",
+          "title": "Clawdbot/OpenClaw Clearly Explained (and how to use it)",
+          "channel": "Greg Isenberg",
+          "publishedAt": "2026-01-27T19:00:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/U8kXfk8enrY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=U8kXfk8enrY",
+          "kind": "playlist",
+          "playlistTitle": "Clawdbot"
+        },
+        {
+          "videoId": "rlJovzVhlIo",
+          "title": "I Turned Clawdbot Into the Ultimate Personal Assistant",
+          "channel": "Nate Herk | AI Automation",
+          "publishedAt": "2026-01-30T03:23:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/rlJovzVhlIo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=rlJovzVhlIo",
+          "kind": "playlist",
+          "playlistTitle": "Clawdbot"
+        },
+        {
+          "videoId": "9blBcumiaa8",
+          "title": "\"모든 구독 플랜을 취소했습니다\" - AI 에이전트로 월 300만 원 절약하는 법",
+          "channel": "Nova AI",
+          "publishedAt": "2026-02-01T07:00:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/9blBcumiaa8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=9blBcumiaa8",
+          "kind": "playlist",
+          "playlistTitle": "Clawdbot"
+        },
+        {
+          "videoId": "cvw_e3E8pWY",
+          "title": "\"ClawdBot이 직접 전화를?\" AI에게 뇌와 근육을 달아주는 방법",
+          "channel": "Nova AI",
+          "publishedAt": "2026-02-01T08:00:50Z",
+          "thumbnail": "https://i.ytimg.com/vi/cvw_e3E8pWY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=cvw_e3E8pWY",
+          "kind": "playlist",
+          "playlistTitle": "Clawdbot"
+        },
+        {
+          "videoId": "sgB4mM9q-ME",
+          "title": "AI 대세 OpenClaw, 고장 없이 업데이트하고 버전 관리하는 법",
+          "channel": "Nova AI",
+          "publishedAt": "2026-02-01T09:01:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/sgB4mM9q-ME/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=sgB4mM9q-ME",
+          "kind": "playlist",
+          "playlistTitle": "Clawdbot"
+        },
+        {
+          "videoId": "j0XCCFEoXRk",
+          "title": "OpenClaw 스킬 통합으로 나만의 맞춤형 AI 만들기",
+          "channel": "Nova AI",
+          "publishedAt": "2026-02-03T00:00:48Z",
+          "thumbnail": "https://i.ytimg.com/vi/j0XCCFEoXRk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=j0XCCFEoXRk",
+          "kind": "playlist",
+          "playlistTitle": "Clawdbot"
+        },
+        {
+          "videoId": "xiWErDT_VZk",
+          "title": "New OpenClaw Update (FREE!)",
+          "channel": "Julian Goldie SEO",
+          "publishedAt": "2026-02-05T20:00:48Z",
+          "thumbnail": "https://i.ytimg.com/vi/xiWErDT_VZk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=xiWErDT_VZk",
+          "kind": "playlist",
+          "playlistTitle": "Clawdbot"
+        },
+        {
+          "videoId": "DpD0wnGk03s",
+          "title": "텔레그램 AI 비서 몰트봇을 옵시디언에 넣었다! | 몰트봇 + 옵시디언 + 텔레그램 활용 무료 플러그인",
+          "channel": "배움의 달인 (AI·자동화)",
+          "publishedAt": "2026-02-04T07:30:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/DpD0wnGk03s/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=DpD0wnGk03s",
+          "kind": "playlist",
+          "playlistTitle": "Clawdbot"
+        },
+        {
+          "videoId": "NK12Gz1vQVQ",
+          "title": "[라이브 코딩] 오픈클로 같은 AI 에이전트를 오픈클로(OpenClaw) 안쓰고 바닥부터(from scratch) 만들기",
+          "channel": "홍정모",
+          "publishedAt": "2026-02-06T07:10:50Z",
+          "thumbnail": "https://i.ytimg.com/vi/NK12Gz1vQVQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=NK12Gz1vQVQ",
+          "kind": "playlist",
+          "playlistTitle": "Clawdbot"
+        },
+        {
+          "videoId": "j7lVX2Q3W-k",
+          "title": "24시간 AI 비서 끝판왕은? Memubot vs Open Claw 전격 비교!",
+          "channel": "Nova AI",
+          "publishedAt": "2026-02-05T22:47:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/j7lVX2Q3W-k/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=j7lVX2Q3W-k",
+          "kind": "playlist",
+          "playlistTitle": "Clawdbot"
+        },
+        {
+          "videoId": "n1sfrc-RjyM",
+          "title": "OpenClaw Full Tutorial for Beginners – How to Set Up and Use OpenClaw (ClawdBot / MoltBot)",
+          "channel": "freeCodeCamp.org",
+          "publishedAt": "2026-02-04T11:01:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/n1sfrc-RjyM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=n1sfrc-RjyM",
+          "kind": "playlist",
+          "playlistTitle": "Clawdbot"
+        },
+        {
+          "videoId": "sejqZld2yZ8",
+          "title": "How OpenClaw (Clawdbot) Is Rewriting the Way Our Team Works with Rahul Sood | E2242",
+          "channel": "This Week in Startups",
+          "publishedAt": "2026-01-31T01:02:22Z",
+          "thumbnail": "https://i.ytimg.com/vi/sejqZld2yZ8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=sejqZld2yZ8",
+          "kind": "playlist",
+          "playlistTitle": "Clawdbot"
+        },
+        {
+          "videoId": "kFwzPJZoZoc",
+          "title": "8 Practical Clawdbot Use Cases (Full Tutorial)",
+          "channel": "Samin Yasar",
+          "publishedAt": "2026-01-28T12:34:27Z",
+          "thumbnail": "https://i.ytimg.com/vi/kFwzPJZoZoc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=kFwzPJZoZoc",
+          "kind": "playlist",
+          "playlistTitle": "Clawdbot"
+        },
+        {
+          "videoId": "UHum7glkRTs",
+          "title": "Clawdbot is an inflection point in AI history | E2240",
+          "channel": "This Week in Startups",
+          "publishedAt": "2026-01-27T01:43:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/UHum7glkRTs/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=UHum7glkRTs",
+          "kind": "playlist",
+          "playlistTitle": "Clawdbot"
+        },
+        {
+          "videoId": "tEFH7JVPdVE",
+          "title": "The OpenClaw and Claude Code Money Making System (No Coding Experience Needed)",
+          "channel": "Leveling Up with Eric Siu",
+          "publishedAt": "2026-02-07T06:29:49Z",
+          "thumbnail": "https://i.ytimg.com/vi/tEFH7JVPdVE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=tEFH7JVPdVE",
+          "kind": "playlist",
+          "playlistTitle": "Clawdbot"
+        },
+        {
+          "videoId": "E_5m88XBlRI",
+          "title": "1분만에 대부분의 사이트를 한방에 수집하는 방법",
+          "channel": "AI 알려주는 남자, 데브남",
+          "publishedAt": "2026-01-21T09:26:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/E_5m88XBlRI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=E_5m88XBlRI",
+          "kind": "playlist",
+          "playlistTitle": "Clawling"
+        },
+        {
+          "videoId": "WUMOO-X4YsI",
+          "title": "디자인이 코드가 되는 마법! Google Stitch MCP 업데이트가 미쳤습니다",
+          "channel": "Nova AI",
+          "publishedAt": "2026-01-23T02:00:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/WUMOO-X4YsI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=WUMOO-X4YsI",
+          "kind": "playlist",
+          "playlistTitle": "Google Stitch MCP"
+        },
+        {
+          "videoId": "nWhNttjhmU0",
+          "title": "구글 딥마인드 비공개 세션 참여했습니다. AI 1인 기업 해야하는 이유 (feat. 제미나이 3)",
+          "channel": "CONNECT AI LAB",
+          "publishedAt": "2026-01-24T05:02:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/nWhNttjhmU0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=nWhNttjhmU0",
+          "kind": "playlist",
+          "playlistTitle": "Google Stitch MCP"
+        },
+        {
+          "videoId": "DAaw7Ao_zUc",
+          "title": "AI Coding Agents Advanced Guide: Subagents, Skills, MCP, LSP, Commands, AGENTS.md, Hooks Explained",
+          "channel": "pookie",
+          "publishedAt": "2026-01-23T18:28:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/DAaw7Ao_zUc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=DAaw7Ao_zUc",
+          "kind": "playlist",
+          "playlistTitle": "Google Stitch MCP"
+        },
+        {
+          "videoId": "72yb2-vqMSI",
+          "title": "🔥 X에서 난리난 Remotion Skills 완벽 가이드 | Remotion Skills + Claude Code로 코딩 몰라도 AI로 영상 만들기 (실습 포함) 😱",
+          "channel": "배움의 달인 (AI·자동화)",
+          "publishedAt": "2026-01-21T22:45:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/72yb2-vqMSI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=72yb2-vqMSI",
+          "kind": "playlist",
+          "playlistTitle": "Skills"
+        },
+        {
+          "videoId": "khelV1vsYeM",
+          "title": "클로드 스킬 개념과 140개 이상의 과학 전용 스킬 소개 (with K-Dense-AI)",
+          "channel": "오늘의 어시",
+          "publishedAt": "2026-01-23T15:26:17Z",
+          "thumbnail": "https://i.ytimg.com/vi/khelV1vsYeM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=khelV1vsYeM",
+          "kind": "playlist",
+          "playlistTitle": "Skills"
+        },
+        {
+          "videoId": "VmJJONuR0Zw",
+          "title": "NEW Antigravity + Stitch Update is INSANE!",
+          "channel": "Julian Goldie SEO",
+          "publishedAt": "2026-01-23T14:38:40Z",
+          "thumbnail": "https://i.ytimg.com/vi/VmJJONuR0Zw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=VmJJONuR0Zw",
+          "kind": "playlist",
+          "playlistTitle": "Skills"
+        },
+        {
+          "videoId": "ty9uyJEY4EQ",
+          "title": "Claude Cowork 유료로 쓰지 마세요: 전체 소스 코드가 공개된 OpenWork.ai",
+          "channel": "Nova AI",
+          "publishedAt": "2026-01-22T05:00:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/ty9uyJEY4EQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ty9uyJEY4EQ",
+          "kind": "playlist",
+          "playlistTitle": "Claude cowork"
+        },
+        {
+          "videoId": "F0rZncNpU28",
+          "title": "Claude in Excel이 바꿔놓은 엑셀 사용의 신세계",
+          "channel": "CaN Tips",
+          "publishedAt": "2026-02-07T03:06:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/F0rZncNpU28/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=F0rZncNpU28",
+          "kind": "playlist",
+          "playlistTitle": "Claude cowork"
+        },
+        {
+          "videoId": "7wneTLhqeL8",
+          "title": "월 200달러 아끼는 법! Claude Code를 완전 무료로 사용하는 로컬 설정 가이드",
+          "channel": "Nova AI",
+          "publishedAt": "2026-02-12T04:00:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/7wneTLhqeL8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=7wneTLhqeL8",
+          "kind": "playlist",
+          "playlistTitle": "Claude cowork"
+        },
+        {
+          "videoId": "XWZ2IvgsFrk",
+          "title": "클로드코워크 윈도우 버전 출시! 직장인, 1인창업도구, 미증시 400조 삭제의 주역 #클로드 #클로드코워크 #클로드코드",
+          "channel": "노모어매뉴얼",
+          "publishedAt": "2026-02-12T08:35:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/XWZ2IvgsFrk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=XWZ2IvgsFrk",
+          "kind": "playlist",
+          "playlistTitle": "Claude cowork"
+        },
+        {
+          "videoId": "rE2oJMB8cCM",
+          "title": "Chatgpt로 매일 아침 관심뉴스 자동으로 받는 가장 쉬운 방법 (코딩 몰라도 OK)",
+          "channel": "쉬운AI",
+          "publishedAt": "2026-01-17T11:39:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/rE2oJMB8cCM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=rE2oJMB8cCM",
+          "kind": "playlist",
+          "playlistTitle": "GPT Mailing schedule"
+        },
+        {
+          "videoId": "HFFFokfO5Js",
+          "title": "구글 제미나이3 슈퍼젬스 사용법, 1분 만에 업무 자동화",
+          "channel": "잘 파는 청년 [네이버플레이스 전문가]",
+          "publishedAt": "2026-01-17T04:47:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/HFFFokfO5Js/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=HFFFokfO5Js",
+          "kind": "playlist",
+          "playlistTitle": "Gemini Super Gem"
+        },
+        {
+          "videoId": "GgJ1hGWdhss",
+          "title": "모든 컨설턴트들이 절대 말 못 하는 AI 사용법, 내가 직접 설계하는 0원 컨설팅! 소수만 아는 제미나이, 챗지지티의 보석같은 기능들 #챗지피티 #제미나이 #수노ai",
+          "channel": "노모어매뉴얼",
+          "publishedAt": "2026-01-21T13:44:30Z",
+          "thumbnail": "https://i.ytimg.com/vi/GgJ1hGWdhss/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=GgJ1hGWdhss",
+          "kind": "playlist",
+          "playlistTitle": "Gemini Super Gem"
+        },
+        {
+          "videoId": "YMrGXr9hyW8",
+          "title": "구글 Gemini가 만드는 '살아있는' 코드 문서, Code Wiki 사용법 및 핵심 정리",
+          "channel": "Nova AI",
+          "publishedAt": "2026-01-11T04:00:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/YMrGXr9hyW8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=YMrGXr9hyW8",
+          "kind": "playlist",
+          "playlistTitle": "Code Wiki"
+        },
+        {
+          "videoId": "nJfqO5edMFk",
+          "title": "AI들끼리 일하게 만들기 (Antigravity, Claudecode, GPT, Gemini, Codex) Multi LLM Agent",
+          "channel": "Alex AI",
+          "publishedAt": "2026-01-10T00:24:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/nJfqO5edMFk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=nJfqO5edMFk",
+          "kind": "playlist",
+          "playlistTitle": "AI Orchestration"
+        },
+        {
+          "videoId": "UdYOct4fuXc",
+          "title": "구글 제미나이3 최신 기능! '슈퍼젬스'로 1분 만에 업무 자동화",
+          "channel": "마케터 핀의 AI 생존기",
+          "publishedAt": "2026-01-10T07:04:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/UdYOct4fuXc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=UdYOct4fuXc",
+          "kind": "playlist",
+          "playlistTitle": "Google Super Gem"
+        },
+        {
+          "videoId": "OehCeXuQHxY",
+          "title": "OpenAI 업데이트 Agent Builder.자동화 전문가가 처음부터 끝까지 알려드립니다 l AI 에이전시 쓸모랩 임근석(AI 팟캐스트 #72)",
+          "channel": "평범한 사업가",
+          "publishedAt": "2025-10-16T09:25:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/OehCeXuQHxY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=OehCeXuQHxY",
+          "kind": "playlist",
+          "playlistTitle": "Open AI Agent Builder"
+        },
+        {
+          "videoId": "wic-K5oYXtk",
+          "title": "AI 에이전트 대결 — OPAL vs Agent Builder",
+          "channel": "CONNECT AI LAB",
+          "publishedAt": "2025-10-29T08:01:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/wic-K5oYXtk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=wic-K5oYXtk",
+          "kind": "playlist",
+          "playlistTitle": "Open AI Agent Builder"
+        },
+        {
+          "videoId": "RRFdEVIJ3zY",
+          "title": "드래그 앤 드롭만으로 만드는 AI 에이전트, OpenAI Agent Builder #shorts",
+          "channel": "조코딩 JoCoding",
+          "publishedAt": "2025-10-15T09:00:44Z",
+          "thumbnail": "https://i.ytimg.com/vi/RRFdEVIJ3zY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=RRFdEVIJ3zY",
+          "kind": "playlist",
+          "playlistTitle": "Open AI Agent Builder"
+        },
+        {
+          "videoId": "cnxJk1QBzVA",
+          "title": "OpenAi Agent Builder 초기초부터 10분안에 알려드립니다",
+          "channel": "딩코딩코",
+          "publishedAt": "2025-10-26T10:15:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/cnxJk1QBzVA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=cnxJk1QBzVA",
+          "kind": "playlist",
+          "playlistTitle": "Open AI Agent Builder"
+        },
+        {
+          "videoId": "g93XqSRxcAs",
+          "title": "OpenAI’s New Agent Builder is Insane - Full Tutorial",
+          "channel": "Tech With Tim",
+          "publishedAt": "2025-11-04T13:59:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/g93XqSRxcAs/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=g93XqSRxcAs",
+          "kind": "playlist",
+          "playlistTitle": "Open AI Agent Builder"
+        },
+        {
+          "videoId": "3ChV6VgSbvo",
+          "title": "[AI회계사의 오토파일럿 #2] 💹 코드 한 줄 없이! OpenAI Agent Builder로 만드는 ‘AI 금융 비서’",
+          "channel": "AI 회계사 - Dream Factory ",
+          "publishedAt": "2025-11-07T13:24:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/3ChV6VgSbvo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=3ChV6VgSbvo",
+          "kind": "playlist",
+          "playlistTitle": "Open AI Agent Builder"
+        },
+        {
+          "videoId": "47G1aEaNOKU",
+          "title": "How To Use ChatKit UI with OpenAI Agent Builder",
+          "channel": "corbin",
+          "publishedAt": "2025-10-18T14:30:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/47G1aEaNOKU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=47G1aEaNOKU",
+          "kind": "playlist",
+          "playlistTitle": "Open AI Agent Builder"
+        },
+        {
+          "videoId": "prulDeo3giI",
+          "title": "\"사무직 다 큰일났습니다... \" 클로드 새 기능 업데이트 claude in chrome, 크롤링, 문서 생성까지 자동으로!!! 익스텐션 소개",
+          "channel": "코난쌤 conanssam",
+          "publishedAt": "2026-01-08T12:56:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/prulDeo3giI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=prulDeo3giI",
+          "kind": "playlist",
+          "playlistTitle": "Claude code extension"
+        },
+        {
+          "videoId": "AAd8taPTyTM",
+          "title": "AI 코딩 그렇게 하는 거 아닌데 - 켄트 백 (40년차)",
+          "channel": "딩코딩코",
+          "publishedAt": "2025-11-09T10:15:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/AAd8taPTyTM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=AAd8taPTyTM",
+          "kind": "playlist",
+          "playlistTitle": "Claude code extension"
+        },
+        {
+          "videoId": "y5cze4tAXZU",
+          "title": "요즘 다들 클로드코드 말고 이거 쓴다면서요? | OpenCode 코딩 에이전트",
+          "channel": "개발동생",
+          "publishedAt": "2026-01-07T15:27:17Z",
+          "thumbnail": "https://i.ytimg.com/vi/y5cze4tAXZU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=y5cze4tAXZU",
+          "kind": "playlist",
+          "playlistTitle": "Opencode"
+        },
+        {
+          "videoId": "aNLwdP-uChA",
+          "title": "터미널에서 바로 실행되는 AI 코딩 도구! (Open Code)",
+          "channel": "Nova AI",
+          "publishedAt": "2026-01-06T03:00:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/aNLwdP-uChA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=aNLwdP-uChA",
+          "kind": "playlist",
+          "playlistTitle": "Opencode"
+        },
+        {
+          "videoId": "BhZofx0Ms88",
+          "title": "지금은 오픈코드를 시작하기 아주 좋은 시기입니다.(oh-my-opencode)",
+          "channel": "단테",
+          "publishedAt": "2026-01-11T08:57:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/BhZofx0Ms88/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=BhZofx0Ms88",
+          "kind": "playlist",
+          "playlistTitle": "Opencode"
+        },
+        {
+          "videoId": "v8LO9xDer0c",
+          "title": "한국인이 만든 초특급 Agent tool Oh my Opencode 국뽕주의(영상을 찍었는데 Opencode가 막혀버렸 ㅠㅠ)",
+          "channel": "Alex AI",
+          "publishedAt": "2026-01-09T05:44:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/v8LO9xDer0c/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=v8LO9xDer0c",
+          "kind": "playlist",
+          "playlistTitle": "Opencode"
+        },
+        {
+          "videoId": "uuV1DcvObsg",
+          "title": "Oh My OpenCode (5 SUPER Agent/MCP/Prompt Config): This makes OPENCODE - A BEAST! REALLY GOOD Agents",
+          "channel": "AICodeKing",
+          "publishedAt": "2025-12-27T14:15:54Z",
+          "thumbnail": "https://i.ytimg.com/vi/uuV1DcvObsg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=uuV1DcvObsg",
+          "kind": "playlist",
+          "playlistTitle": "Opencode"
+        },
+        {
+          "videoId": "M0P_wzJPxMU",
+          "title": "OpenCode Skills Feature - The Lazy Loading Game Changer",
+          "channel": "Darren Builds AI",
+          "publishedAt": "2025-12-27T18:00:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/M0P_wzJPxMU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=M0P_wzJPxMU",
+          "kind": "playlist",
+          "playlistTitle": "Opencode"
+        },
+        {
+          "videoId": "9FW43mb1vTM",
+          "title": "OpenCode Is An Awesome Way To Use AI With Neovim & Tmux",
+          "channel": "Josean Martinez",
+          "publishedAt": "2025-08-26T16:00:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/9FW43mb1vTM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=9FW43mb1vTM",
+          "kind": "playlist",
+          "playlistTitle": "Opencode"
+        },
+        {
+          "videoId": "syK7yprJknM",
+          "title": "OpenCode just killed all vibe coding apps (it’s insane)",
+          "channel": "David Ondrej",
+          "publishedAt": "2026-01-13T23:07:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/syK7yprJknM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=syK7yprJknM",
+          "kind": "playlist",
+          "playlistTitle": "Opencode"
+        },
+        {
+          "videoId": "DS37JuZ2IP8",
+          "title": "OpenCode + AntiGravity is INSANE!  🤯",
+          "channel": "Julian Goldie SEO",
+          "publishedAt": "2026-01-15T09:30:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/DS37JuZ2IP8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=DS37JuZ2IP8",
+          "kind": "playlist",
+          "playlistTitle": "Opencode"
+        },
+        {
+          "videoId": "dzDVt3-MTRk",
+          "title": "Antigravity + Opencode IS INCREDIBLE! Best AI Coding Workflow Solves EVERYTHING!",
+          "channel": "WorldofAI",
+          "publishedAt": "2026-01-22T07:44:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/dzDVt3-MTRk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=dzDVt3-MTRk",
+          "kind": "playlist",
+          "playlistTitle": "Opencode"
+        },
+        {
+          "videoId": "G_Snfh2M41M",
+          "title": "Oh My OpenCode Is Actually Insane",
+          "channel": "Darren Builds AI",
+          "publishedAt": "2026-01-01T18:00:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/G_Snfh2M41M/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=G_Snfh2M41M",
+          "kind": "playlist",
+          "playlistTitle": "Opencode"
+        },
+        {
+          "videoId": "nPxjq21PmTI",
+          "title": "Cursor 구독 해지했습니다. 무료 오픈소스 AI(OpenCode)로 부동산 데이터를 싹 다 긁어오는 법 (Feat. 제미나이 300불 무료)",
+          "channel": "호두의 AI 분석실",
+          "publishedAt": "2026-01-24T10:50:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/nPxjq21PmTI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=nPxjq21PmTI",
+          "kind": "playlist",
+          "playlistTitle": "Opencode"
+        },
+        {
+          "videoId": "0ffYAhPfpS0",
+          "title": "[OPENCODE + n8n]으로 구축하는 미친 성능의 1인 에이전시",
+          "channel": "단테랩스",
+          "publishedAt": "2026-01-20T21:35:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/0ffYAhPfpS0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=0ffYAhPfpS0",
+          "kind": "playlist",
+          "playlistTitle": "Opencode"
+        },
+        {
+          "videoId": "0FCNZviWhQE",
+          "title": "이거 알아? PPT 목차선이 자동으로 생기는 신기한 방법 #ppt #파워포인트 #피피티 #프레젠테이션 #목차만들기 #엑셀 #파포 #shorts #구독",
+          "channel": "office_master",
+          "publishedAt": "2024-12-25T00:00:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/0FCNZviWhQE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=0FCNZviWhQE",
+          "kind": "playlist",
+          "playlistTitle": "PPT"
+        },
+        {
+          "videoId": "ZgCIU5PeKjk",
+          "title": "(세계3위코딩) GPT로 바이브코딩 했더니 클로드코드 맞먹는 성능ㄷㄷ (WSL로 Codex 설치하는법)",
+          "channel": "성공지식백과",
+          "publishedAt": "2026-01-05T06:06:42Z",
+          "thumbnail": "https://i.ytimg.com/vi/ZgCIU5PeKjk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ZgCIU5PeKjk",
+          "kind": "playlist",
+          "playlistTitle": "codex"
+        },
+        {
+          "videoId": "651g-AwwRkI",
+          "title": "회계사 세무사 회계 시간 내 다 푸는법 [ 계산기 기능 사용법 / 연습 방법 및 접근 방법 전수 ]",
+          "channel": "황셈",
+          "publishedAt": "2025-11-10T10:01:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/651g-AwwRkI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=651g-AwwRkI",
+          "kind": "playlist",
+          "playlistTitle": "CTA 정보"
+        },
+        {
+          "videoId": "RqSNBdzSzaI",
+          "title": "계산기 하나 때문에 떨어졌습니다... (수험생이라면 꼭 보세요) 공인회계사, 세무사 수험생이 반드시 알아야 할 계산기 사용법 (최창규T)",
+          "channel": "윌비스 나무경영아카데미학원",
+          "publishedAt": "2025-04-30T06:55:48Z",
+          "thumbnail": "https://i.ytimg.com/vi/RqSNBdzSzaI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=RqSNBdzSzaI",
+          "kind": "playlist",
+          "playlistTitle": "CTA 정보"
+        },
+        {
+          "videoId": "JQFjhQPwD9I",
+          "title": "노션보다 강력한 옵시디언 사용법! AI 웹클리퍼 4종 | 유튜브·깃허브·도서·채용 자동 정리 | 템플릿 무료제공",
+          "channel": "배움의 달인 (AI·자동화)",
+          "publishedAt": "2026-01-04T13:39:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/JQFjhQPwD9I/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=JQFjhQPwD9I",
+          "kind": "playlist",
+          "playlistTitle": "Obsidian"
+        },
+        {
+          "videoId": "SCoospwn-Qs",
+          "title": "500달러 Cursor 구독 취소! 무료 AI 코딩 도구 Conductor로 갈아탄 이유",
+          "channel": "Nova AI",
+          "publishedAt": "2026-01-04T04:00:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/SCoospwn-Qs/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=SCoospwn-Qs",
+          "kind": "playlist",
+          "playlistTitle": "Conductor"
+        },
+        {
+          "videoId": "-Kml_NmHiGA",
+          "title": "무조건 설치해놔야 되는 1티어 크롬 확장 프로그램들",
+          "channel": "팁타임",
+          "publishedAt": "2025-06-02T09:00:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/-Kml_NmHiGA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=-Kml_NmHiGA",
+          "kind": "playlist",
+          "playlistTitle": "크롬확장프로그램"
+        },
+        {
+          "videoId": "3oIL71er4YI",
+          "title": "\"GPU 쓸 곳이 없어요.\" AI 시대 한국이 '멘붕'에 빠진 이유ㅣ지식인초대석 EP.88 (김대식 교수)",
+          "channel": "지식인사이드",
+          "publishedAt": "2026-01-03T01:00:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/3oIL71er4YI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=3oIL71er4YI",
+          "kind": "playlist",
+          "playlistTitle": "김대식 교수 등"
+        },
+        {
+          "videoId": "FYg_MrcnwU8",
+          "title": "수백억 엑싯한 창업가가 매일 쓰는 AI 도구 3가지와 활용법 (데일리호텔 창업자 신재식님)",
+          "channel": "빌더 조쉬 Builder Josh",
+          "publishedAt": "2025-12-31T03:21:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/FYg_MrcnwU8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=FYg_MrcnwU8",
+          "kind": "playlist",
+          "playlistTitle": "김대식 교수 등"
+        },
+        {
+          "videoId": "cQNfCj7xTcU",
+          "title": "🟣새해 극적으로 달라질 '이것' 지금부터 대비하세요 - 송길영 박사 1부 '20분 트렌드과외'",
+          "channel": "MKTV 김미경TV",
+          "publishedAt": "2026-01-05T10:30:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/cQNfCj7xTcU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=cQNfCj7xTcU",
+          "kind": "playlist",
+          "playlistTitle": "김대식 교수 등"
+        },
+        {
+          "videoId": "36H0VEG7rIM",
+          "title": "🟣당분간 회사에서 '이런 말'은 절대 하지 마세요 - 송길영 박사 2부 '20분 트렌드과외'",
+          "channel": "MKTV 김미경TV",
+          "publishedAt": "2026-01-07T10:30:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/36H0VEG7rIM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=36H0VEG7rIM",
+          "kind": "playlist",
+          "playlistTitle": "김대식 교수 등"
+        },
+        {
+          "videoId": "caWad6izVJs",
+          "title": "\"삶의 질이 10배 상승해요\" 최상위 1%만 알고 있는 AI 활용법 [김상윤 교수 풀버전]",
+          "channel": "부읽남TV_내집마련부터건물주까지",
+          "publishedAt": "2026-01-18T03:00:54Z",
+          "thumbnail": "https://i.ytimg.com/vi/caWad6izVJs/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=caWad6izVJs",
+          "kind": "playlist",
+          "playlistTitle": "김대식 교수 등"
+        },
+        {
+          "videoId": "a_8eGWutwcU",
+          "title": "컨설팅펌에서는 왜 이 엑셀 차트만 쓸까? feat.워터폴차트 #컴활 #엑셀 #excel #엑셀함수 #vlookup #xlookup #데이터분석가 #파워포인트 #엑셀차트",
+          "channel": "니니의엑셀",
+          "publishedAt": "2025-12-18T09:31:18Z",
+          "thumbnail": "https://i.ytimg.com/vi/a_8eGWutwcU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=a_8eGWutwcU",
+          "kind": "playlist",
+          "playlistTitle": "Waterfall chart"
+        },
+        {
+          "videoId": "pyfPwBj6PLE",
+          "title": "IFRS 중급회계 제11판_No.16_6장 무형자산(1)",
+          "channel": "신현걸 클라쓰",
+          "publishedAt": "2024-03-17T02:28:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/pyfPwBj6PLE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=pyfPwBj6PLE",
+          "kind": "playlist",
+          "playlistTitle": "무형자산"
+        },
+        {
+          "videoId": "ozCxeyrlHYk",
+          "title": "[강의] 무형자산의 정의와 회계처리 [쉬운회계원리 22강]",
+          "channel": "사진찍는회계사",
+          "publishedAt": "2019-09-10T14:46:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/ozCxeyrlHYk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ozCxeyrlHYk",
+          "kind": "playlist",
+          "playlistTitle": "무형자산"
+        },
+        {
+          "videoId": "-WWcgv-1eeU",
+          "title": "[해커스 세무사] 세무사 1차 - 중급회계 1 - 무형자산) 무형자산의 조건 _ 정윤돈 교수님",
+          "channel": "해커스 경영아카데미│세무사, 회계사, 경영지도사",
+          "publishedAt": "2019-10-01T08:29:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/-WWcgv-1eeU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=-WWcgv-1eeU",
+          "kind": "playlist",
+          "playlistTitle": "무형자산"
+        },
+        {
+          "videoId": "q9X0tq-9QAU",
+          "title": "[해커스 세무사] 세무사 1차_객관식 재무회계_무형자산 상각_정윤돈 교수님",
+          "channel": "해커스 경영아카데미│세무사, 회계사, 경영지도사",
+          "publishedAt": "2020-02-14T04:54:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/q9X0tq-9QAU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=q9X0tq-9QAU",
+          "kind": "playlist",
+          "playlistTitle": "무형자산"
+        },
+        {
+          "videoId": "Qr_Otey3rO0",
+          "title": "세무사 재무회계 말문제 특강 9강｜무형자산｜24년 세무사 시험 대비｜에듀윌 황윤하 회계사",
+          "channel": "이지 회계사세무사 아카데미",
+          "publishedAt": "2024-03-08T06:00:10Z",
+          "thumbnail": "https://i.ytimg.com/vi/Qr_Otey3rO0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Qr_Otey3rO0",
+          "kind": "playlist",
+          "playlistTitle": "무형자산"
+        },
+        {
+          "videoId": "RBdDy3S4bTE",
+          "title": "[세무사/회계사] 정윤돈 회계원리 '무형자산 계산문제'ㅣ세무사과목, 세무사큐넷, 회계사세무사, 세무사공부법",
+          "channel": "해커스 경영아카데미│세무사, 회계사, 경영지도사",
+          "publishedAt": "2021-10-18T11:00:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/RBdDy3S4bTE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=RBdDy3S4bTE",
+          "kind": "playlist",
+          "playlistTitle": "무형자산"
+        },
+        {
+          "videoId": "dyg3APQhFsY",
+          "title": "Ch 08 무형자산",
+          "channel": "모두의 회계학",
+          "publishedAt": "2019-05-21T11:00:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/dyg3APQhFsY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=dyg3APQhFsY",
+          "kind": "playlist",
+          "playlistTitle": "무형자산"
+        }
+      ]
     }
   ]
 }
