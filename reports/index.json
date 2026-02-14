@@ -1,0 +1,23 @@
+{
+  "updatedAt": null,
+  "status": "pending_oauth",
+  "summary": "아직 OAuth 연동 전입니다.\n\nMac에서 준비되면: `유튜브 OAuth 시작`\n이후 이 PWA에서 최신 정리/목록이 표시됩니다.",
+  "sections": [
+    {
+      "title": "Pinned",
+      "items": []
+    },
+    {
+      "title": "Watch Later",
+      "items": []
+    },
+    {
+      "title": "Liked",
+      "items": []
+    },
+    {
+      "title": "Playlists",
+      "items": []
+    }
+  ]
+}

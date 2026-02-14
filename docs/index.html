@@ -7,40 +7,140 @@
   <title>YouTube Organizer</title>
   <link rel="manifest" href="manifest.webmanifest" />
   <style>
-    :root { --bg:#0b1020; --card:#141a2e; --muted:#a9b4d0; --txt:#eef2ff; --accent:#7c3aed; --accent2:#22c55e; }
-    body{margin:0;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:radial-gradient(900px 400px at 20% 10%, rgba(124,58,237,.35), transparent), linear-gradient(135deg,#070a14,#0b1020);color:var(--txt)}
-    .wrap{max-width:820px;margin:0 auto;padding:18px}
-    .hero{background:linear-gradient(135deg, rgba(124,58,237,.85), rgba(30,41,59,.85));border-radius:18px;padding:16px;box-shadow:0 10px 30px rgba(0,0,0,.28)}
+    :root {
+      --bg0:#070a14;
+      --bg1:#0b1020;
+      --card:rgba(255,255,255,.06);
+      --stroke:rgba(255,255,255,.10);
+      --muted:#a9b4d0;
+      --txt:#eef2ff;
+      --accent:#7c3aed;
+      --accent2:#22c55e;
+      --warn:#fbbf24;
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0;
+      font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+      background:
+        radial-gradient(900px 420px at 18% 8%, rgba(124,58,237,.40), transparent 55%),
+        radial-gradient(760px 360px at 88% 18%, rgba(34,197,94,.20), transparent 55%),
+        linear-gradient(135deg,var(--bg0),var(--bg1));
+      color:var(--txt);
+    }
+    .wrap{max-width:920px;margin:0 auto;padding:18px}
+    .hero{
+      display:flex;
+      align-items:flex-start;
+      justify-content:space-between;
+      gap:14px;
+      background:linear-gradient(135deg, rgba(124,58,237,.85), rgba(30,41,59,.80));
+      border-radius:18px;
+      padding:16px;
+      box-shadow:0 12px 34px rgba(0,0,0,.30);
+      border:1px solid rgba(255,255,255,.10);
+    }
     .hero h1{margin:0 0 6px;font-size:22px;letter-spacing:.2px}
-    .hero p{margin:0;color:rgba(255,255,255,.85);font-size:13px}
+    .hero p{margin:0;color:rgba(255,255,255,.85);font-size:13px;line-height:1.35}
+    .badge{
+      display:inline-flex;
+      align-items:center;
+      gap:6px;
+      padding:6px 10px;
+      border-radius:999px;
+      border:1px solid rgba(255,255,255,.14);
+      background:rgba(0,0,0,.18);
+      color:rgba(255,255,255,.92);
+      font-size:12px;
+      white-space:nowrap;
+    }
     .row{display:flex;gap:10px;flex-wrap:wrap;margin-top:12px}
-    .btn{appearance:none;border:1px solid rgba(255,255,255,.10);border-radius:14px;padding:11px 14px;background:rgba(255,255,255,.06);color:var(--txt);font-weight:700;cursor:pointer}
+    .btn{
+      appearance:none;
+      border:1px solid rgba(255,255,255,.10);
+      border-radius:14px;
+      padding:11px 14px;
+      background:rgba(255,255,255,.06);
+      color:var(--txt);
+      font-weight:800;
+      cursor:pointer;
+      transition:transform .08s ease, background .15s ease, border-color .15s ease;
+    }
     .btn.primary{background:rgba(124,58,237,.25);border-color:rgba(124,58,237,.35)}
     .btn.green{background:rgba(34,197,94,.18);border-color:rgba(34,197,94,.25)}
-    .btn:active{transform:scale(.99)}
-    .card{margin-top:14px;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.10);border-radius:18px;padding:14px}
-    pre{white-space:pre-wrap;word-break:break-word;margin:0;color:var(--txt);font-size:13px;line-height:1.48}
-    .meta{margin-top:8px;color:var(--muted);font-size:12px}
+    .btn:active{transform:scale(.985)}
+    .btn:focus{outline:2px solid rgba(196,181,253,.55); outline-offset:2px}
+
+    .grid{display:grid;grid-template-columns:1.1fr .9fr; gap:14px; margin-top:14px}
+    @media (max-width:860px){ .grid{grid-template-columns:1fr} }
+
+    .card{background:var(--card);border:1px solid var(--stroke);border-radius:18px;padding:14px}
+    .card h2{margin:0 0 10px;font-size:16px}
+    .meta{margin-top:8px;color:var(--muted);font-size:12px;line-height:1.35}
+    pre{white-space:pre-wrap;word-break:break-word;margin:0;color:var(--txt);font-size:13px;line-height:1.5}
+
+    .tabs{display:flex;gap:8px;flex-wrap:wrap}
+    .tab{padding:8px 10px;border-radius:999px;border:1px solid rgba(255,255,255,.12);background:rgba(255,255,255,.05);color:rgba(255,255,255,.92);font-weight:800;font-size:12px;cursor:pointer}
+    .tab.active{background:rgba(124,58,237,.28);border-color:rgba(124,58,237,.38)}
+
+    .list{display:flex;flex-direction:column;gap:10px;margin-top:12px}
+    .item{
+      display:flex;
+      gap:12px;
+      align-items:flex-start;
+      padding:12px;
+      border-radius:16px;
+      border:1px solid rgba(255,255,255,.10);
+      background:rgba(0,0,0,.16);
+      cursor:pointer;
+      text-decoration:none;
+      color:inherit;
+    }
+    .thumb{width:86px;height:54px;border-radius:12px;flex:0 0 auto;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.10);overflow:hidden;display:flex;align-items:center;justify-content:center}
+    .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+    .item-title{font-weight:900;font-size:13px;line-height:1.25;margin:0 0 6px}
+    .item-sub{color:rgba(255,255,255,.70);font-size:12px;line-height:1.25;margin:0}
+    .pill{
+      display:inline-flex;align-items:center;gap:6px;
+      padding:4px 9px;border-radius:999px;
+      border:1px solid rgba(255,255,255,.12);
+      background:rgba(255,255,255,.04);
+      font-size:11px;color:rgba(255,255,255,.85)
+    }
+
     a{color:#c4b5fd}
   </style>
 </head>
 <body>
   <div class="wrap">
     <div class="hero">
-      <h1>YouTube Organizer</h1>
-      <p>순학님 재생목록/Watch Later/좋아요 정리를 위한 전용 PWA (OAuth 연동 후 자동 업데이트)</p>
-      <div class="row">
-        <button class="btn primary" id="btnSummary">요약 불러오기</button>
-        <button class="btn" id="btnClear">비우기</button>
-        <button class="btn" id="btnCopy">복사</button>
+      <div>
+        <h1>YouTube Organizer</h1>
+        <p>재생목록 / Watch Later / 좋아요를 자동 정리해, 밖에서도 빠르게 보는 전용 PWA입니다.</p>
+        <div class="row">
+          <button class="btn primary" id="btnRefresh">새로고침</button>
+          <button class="btn" id="btnClear">비우기</button>
+          <button class="btn" id="btnCopy">복사</button>
+        </div>
+        <div class="meta" id="status">대기 중</div>
       </div>
-      <div class="meta" id="status">대기 중</div>
+      <div class="badge" id="badge">OAuth 대기</div>
     </div>
 
-    <div class="card">
-      <pre id="out">(내용 없음)</pre>
-      <div class="meta">
-        데이터는 GitHub Raw에서 읽습니다. OAuth 토큰/민감정보는 절대 저장하지 않습니다.
+    <div class="grid">
+      <div class="card">
+        <h2>요약</h2>
+        <pre id="summary">(내용 없음)</pre>
+        <div class="meta">
+          OAuth 토큰/민감정보는 이 레포에 저장하지 않습니다. (저장은 Mac 로컬에만)
+        </div>
+      </div>
+
+      <div class="card">
+        <h2>목록</h2>
+        <div class="tabs" id="tabs"></div>
+        <div class="list" id="list"></div>
+        <div class="meta" id="listMeta">리스트를 누르면 YouTube로 이동해 바로 재생됩니다.</div>
       </div>
     </div>
 
@@ -51,36 +151,231 @@
 
   <script>
     const RAW_BASE = 'https://raw.githubusercontent.com/soonhakahn/YouTube_organizer/main';
-    const URL_SUMMARY = RAW_BASE + '/reports/summary.md';
+    const URL_INDEX = RAW_BASE + '/reports/index.json';
+    const URL_FALLBACK_SUMMARY = RAW_BASE + '/reports/summary.md';
 
-    const out = document.getElementById('out');
     const status = document.getElementById('status');
-    let lastText = '';
+    const badge = document.getElementById('badge');
+    const summaryEl = document.getElementById('summary');
+    const tabsEl = document.getElementById('tabs');
+    const listEl = document.getElementById('list');
+    const listMeta = document.getElementById('listMeta');
 
-    async function fetchText(url){
-      status.textContent = '불러오는 중…';
-      const res = await fetch(url, {cache:'no-store'});
-      if(!res.ok) throw new Error('HTTP ' + res.status);
-      const txt = await res.text();
-      status.textContent = '완료 (' + new Date().toLocaleString() + ')';
-      return txt;
+    let lastCopyText = '';
+    let data = null;
+    let activeSection = 0;
+
+    // Simple click sound (no asset). Note: iOS requires user gesture.
+    function clickSound(){
+      try{
+        const ctx = new (window.AudioContext || window.webkitAudioContext)();
+        const o = ctx.createOscillator();
+        const g = ctx.createGain();
+        o.type = 'triangle';
+        o.frequency.value = 880;
+        g.gain.value = 0.06;
+        o.connect(g); g.connect(ctx.destination);
+        o.start();
+        setTimeout(()=>{ o.stop(); ctx.close(); }, 65);
+      } catch(e) { /* ignore */ }
     }
 
-    document.getElementById('btnSummary').onclick = async ()=>{
-      try{ lastText = await fetchText(URL_SUMMARY); out.textContent = lastText || '(비어있음)'; }
-      catch(e){ status.textContent = '실패: ' + e.message + ' (아직 OAuth/동기화 전일 수 있어요)'; }
-    };
+    async function fetchJson(url){
+      const res = await fetch(url, {cache:'no-store'});
+      if(!res.ok) throw new Error('HTTP ' + res.status);
+      return await res.json();
+    }
 
+    async function fetchText(url){
+      const res = await fetch(url, {cache:'no-store'});
+      if(!res.ok) throw new Error('HTTP ' + res.status);
+      return await res.text();
+    }
+
+    function setBadge(txt, tone){
+      badge.textContent = txt;
+      if(tone === 'ok') badge.style.background = 'rgba(34,197,94,.20)';
+      else if(tone === 'warn') badge.style.background = 'rgba(251,191,36,.20)';
+      else badge.style.background = 'rgba(0,0,0,.18)';
+    }
+
+    function ytThumb(item){
+      if(item.thumbnail) return item.thumbnail;
+      if(item.videoId) return `https://i.ytimg.com/vi/${item.videoId}/hqdefault.jpg`;
+      return null;
+    }
+
+    function ytUrl(item){
+      if(item.url) return item.url;
+      if(item.videoId) return `https://www.youtube.com/watch?v=${item.videoId}`;
+      return null;
+    }
+
+    function renderTabs(sections){
+      tabsEl.innerHTML = '';
+      sections.forEach((s, i)=>{
+        const b = document.createElement('button');
+        b.className = 'tab' + (i === activeSection ? ' active' : '');
+        const n = (s.items || []).length;
+        b.textContent = `${s.title} (${n})`;
+        b.onclick = ()=>{ clickSound(); activeSection = i; renderAll(); };
+        tabsEl.appendChild(b);
+      });
+    }
+
+    function renderList(section){
+      listEl.innerHTML = '';
+      const items = section?.items || [];
+
+      if(items.length === 0){
+        const p = document.createElement('div');
+        p.className = 'meta';
+        p.textContent = '아직 항목이 없습니다. OAuth 연동 후 자동으로 채워집니다.';
+        listEl.appendChild(p);
+        return;
+      }
+
+      items.slice(0, 60).forEach(item=>{
+        const url = ytUrl(item);
+        const a = document.createElement('a');
+        a.className = 'item';
+        a.href = url || '#';
+        a.target = '_blank';
+        a.rel = 'noreferrer';
+        a.onclick = ()=>{ clickSound(); };
+
+        const th = document.createElement('div');
+        th.className = 'thumb';
+        const turl = ytThumb(item);
+        if(turl){
+          const img = document.createElement('img');
+          img.src = turl;
+          img.alt = '';
+          th.appendChild(img);
+        } else {
+          th.textContent = '▶';
+        }
+
+        const body = document.createElement('div');
+        const title = document.createElement('p');
+        title.className = 'item-title';
+        title.textContent = item.title || '(제목 없음)';
+
+        const sub = document.createElement('p');
+        sub.className = 'item-sub';
+        const parts = [];
+        if(item.channel) parts.push(item.channel);
+        if(item.duration) parts.push(item.duration);
+        if(item.addedAt) parts.push(item.addedAt);
+        sub.textContent = parts.join(' · ');
+
+        const tags = document.createElement('div');
+        tags.style.marginTop = '8px';
+        tags.style.display = 'flex';
+        tags.style.gap = '6px';
+        tags.style.flexWrap = 'wrap';
+
+        if(item.kind) {
+          const pill = document.createElement('span');
+          pill.className = 'pill';
+          pill.textContent = item.kind;
+          tags.appendChild(pill);
+        }
+        if(item.topic) {
+          const pill = document.createElement('span');
+          pill.className = 'pill';
+          pill.textContent = item.topic;
+          tags.appendChild(pill);
+        }
+
+        body.appendChild(title);
+        body.appendChild(sub);
+        if(tags.childNodes.length) body.appendChild(tags);
+
+        a.appendChild(th);
+        a.appendChild(body);
+        listEl.appendChild(a);
+      });
+
+      listMeta.textContent = '리스트를 누르면 YouTube로 이동해 바로 재생됩니다.';
+    }
+
+    function renderAll(){
+      if(!data){
+        summaryEl.textContent = '(내용 없음)';
+        tabsEl.innerHTML = '';
+        listEl.innerHTML = '';
+        return;
+      }
+
+      renderTabs(data.sections || []);
+      renderList((data.sections || [])[activeSection]);
+
+      summaryEl.textContent = (data.summary || '').trim() || '(요약 없음)';
+
+      // Copy payload
+      lastCopyText = [
+        '# YouTube Organizer',
+        data.updatedAt ? ('updatedAt: ' + data.updatedAt) : 'updatedAt: (none)',
+        '',
+        summaryEl.textContent
+      ].join('\n');
+
+      // Badge
+      if(data.status === 'ok') setBadge('연동됨', 'ok');
+      else if(data.status === 'pending_oauth') setBadge('OAuth 대기', 'warn');
+      else setBadge(data.status || '상태', '');
+
+      // Update tab active UI
+      Array.from(tabsEl.children).forEach((el, i)=>{
+        el.classList.toggle('active', i === activeSection);
+      });
+    }
+
+    async function refresh(){
+      status.textContent = '불러오는 중…';
+      try{
+        data = await fetchJson(URL_INDEX);
+        status.textContent = '완료 (' + new Date().toLocaleString() + ')';
+      } catch(e){
+        // Fallback: summary.md only
+        try{
+          const t = await fetchText(URL_FALLBACK_SUMMARY);
+          data = {
+            status: 'pending_oauth',
+            updatedAt: null,
+            summary: t,
+            sections: [{title:'Pinned', items:[]}]
+          };
+          status.textContent = '완료(요약만)';
+        } catch(e2){
+          status.textContent = '실패: ' + e.message;
+          data = null;
+        }
+      }
+      renderAll();
+    }
+
+    document.getElementById('btnRefresh').onclick = ()=>{ clickSound(); refresh(); };
     document.getElementById('btnClear').onclick = ()=>{
-      lastText = '';
-      out.textContent = '(내용 없음)';
+      clickSound();
+      data = null;
+      activeSection = 0;
+      lastCopyText = '';
+      summaryEl.textContent = '(내용 없음)';
+      tabsEl.innerHTML = '';
+      listEl.innerHTML = '';
       status.textContent = '비움';
+      setBadge('OAuth 대기', 'warn');
     };
-
     document.getElementById('btnCopy').onclick = async ()=>{
-      try{ await navigator.clipboard.writeText(lastText || out.textContent); status.textContent='복사됨'; }
+      clickSound();
+      try{ await navigator.clipboard.writeText(lastCopyText || summaryEl.textContent); status.textContent='복사됨'; }
       catch(e){ status.textContent='복사 실패'; }
     };
+
+    // Auto-refresh on load
+    refresh();
   </script>
 </body>
 </html>
