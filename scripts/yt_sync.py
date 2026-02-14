@@ -237,9 +237,15 @@ def main() -> int:
         import subprocess
 
         subprocess.check_call(["git", "add", "reports/index.json", "reports/summary.md"])
-        subprocess.check_call(["git", "commit", "-m", "Update YouTube Organizer reports"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-        subprocess.check_call(["git", "push"])
-        print("OK: pushed to GitHub")
+
+        # Only commit if there are staged changes
+        diff = subprocess.check_output(["git", "diff", "--cached", "--name-only"], text=True).strip()
+        if diff:
+            subprocess.check_call(["git", "commit", "-m", "Update YouTube Organizer reports"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+            subprocess.check_call(["git", "push"])
+            print("OK: pushed to GitHub")
+        else:
+            print("OK: no report changes; nothing to push")
 
     return 0
 
