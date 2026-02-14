@@ -1,0 +1,12 @@
+# local secrets
+memory/
+*.token.json
+*.oauth.json
+client_secret*.json
+credentials*.json
+.env
+
+# python
+.venv/
+__pycache__/
+*.pyc
