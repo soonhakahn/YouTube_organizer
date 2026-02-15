@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-02-15T08:16:05+09:00",
+  "updatedAt": "2026-02-16T07:11:24+09:00",
   "status": "ok",
-  "summary": "# YouTube Organizer\n업데이트: 2026-02-15T08:16:05+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
+  "summary": "# YouTube Organizer\n업데이트: 2026-02-16T07:11:24+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
   "sections": [
     {
       "title": "Watch Later",
@@ -250,6 +250,16 @@
       "title": "Playlists",
       "items": [
         {
+          "videoId": "gqYyZuO34x0",
+          "title": "How To Use Claude Code FREE Forever (Ollama Setup)",
+          "channel": "Matt Penny | Applied AI",
+          "publishedAt": "2026-02-05T16:16:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/gqYyZuO34x0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=gqYyZuO34x0",
+          "kind": "playlist",
+          "playlistTitle": "Ollama"
+        },
+        {
           "videoId": "8gV6xsof964",
           "title": "We built a $1M AI Agent in 14 days",
           "channel": "jayhoovy",
@@ -270,6 +280,16 @@
           "playlistTitle": "MTS 화면설정"
         },
         {
+          "videoId": "RhMRtXb_95E",
+          "title": "독학으로 가장 빠르게 주식 초보 탈출하려면 이것만 죽어라 할겁니다",
+          "channel": "주식독학",
+          "publishedAt": "2024-10-01T23:03:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/RhMRtXb_95E/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=RhMRtXb_95E",
+          "kind": "playlist",
+          "playlistTitle": "MTS 화면설정"
+        },
+        {
           "videoId": "jae2bVCCokc",
           "title": "skills.sh 하나면 AI 코딩 레벨이 달라집니다",
           "channel": "메이커 에반 | Maker Evan",
@@ -280,12 +300,32 @@
           "playlistTitle": "Skill.sh"
         },
         {
+          "videoId": "2eqPBLgVH0U",
+          "title": "클로드 스킬, 서브에이전트, 커맨드 개념 몰랐던 사람 한번에 이해시켜드림",
+          "channel": "코딩알려주는누나",
+          "publishedAt": "2026-02-09T07:30:03Z",
+          "thumbnail": "https://i.ytimg.com/vi/2eqPBLgVH0U/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=2eqPBLgVH0U",
+          "kind": "playlist",
+          "playlistTitle": "Skill.sh"
+        },
+        {
           "videoId": "SCVgdms-s80",
           "title": "GPT-5 비상? 코딩 1위 찍은 역대급 오픈소스 GLM 5 🚀",
           "channel": "Nova AI",
           "publishedAt": "2026-02-13T08:30:11Z",
           "thumbnail": "https://i.ytimg.com/vi/SCVgdms-s80/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=SCVgdms-s80",
+          "kind": "playlist",
+          "playlistTitle": "GLM5"
+        },
+        {
+          "videoId": "vtWMgVCMsx8",
+          "title": "GLM-5 is unbelievable (Opus for 20% the cost??)",
+          "channel": "Theo - t3․gg",
+          "publishedAt": "2026-02-12T11:02:32Z",
+          "thumbnail": "https://i.ytimg.com/vi/vtWMgVCMsx8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=vtWMgVCMsx8",
           "kind": "playlist",
           "playlistTitle": "GLM5"
         },
@@ -1100,6 +1140,16 @@
           "playlistTitle": "Obsidian"
         },
         {
+          "videoId": "I0uggashIkE",
+          "title": "클로드 MCP를 활용하여 30시간 강의를 3시간으로 압축하는 학습법 ㅣAI 활용 학습법으로 자격증3개 취득",
+          "channel": "평범한 사업가",
+          "publishedAt": "2025-07-01T07:41:52Z",
+          "thumbnail": "https://i.ytimg.com/vi/I0uggashIkE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=I0uggashIkE",
+          "kind": "playlist",
+          "playlistTitle": "Obsidian"
+        },
+        {
           "videoId": "SCoospwn-Qs",
           "title": "500달러 Cursor 구독 취소! 무료 AI 코딩 도구 Conductor로 갈아탄 이유",
           "channel": "Nova AI",
@@ -1178,76 +1228,6 @@
           "url": "https://www.youtube.com/watch?v=a_8eGWutwcU",
           "kind": "playlist",
           "playlistTitle": "Waterfall chart"
-        },
-        {
-          "videoId": "pyfPwBj6PLE",
-          "title": "IFRS 중급회계 제11판_No.16_6장 무형자산(1)",
-          "channel": "신현걸 클라쓰",
-          "publishedAt": "2024-03-17T02:28:23Z",
-          "thumbnail": "https://i.ytimg.com/vi/pyfPwBj6PLE/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=pyfPwBj6PLE",
-          "kind": "playlist",
-          "playlistTitle": "무형자산"
-        },
-        {
-          "videoId": "ozCxeyrlHYk",
-          "title": "[강의] 무형자산의 정의와 회계처리 [쉬운회계원리 22강]",
-          "channel": "사진찍는회계사",
-          "publishedAt": "2019-09-10T14:46:07Z",
-          "thumbnail": "https://i.ytimg.com/vi/ozCxeyrlHYk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ozCxeyrlHYk",
-          "kind": "playlist",
-          "playlistTitle": "무형자산"
-        },
-        {
-          "videoId": "-WWcgv-1eeU",
-          "title": "[해커스 세무사] 세무사 1차 - 중급회계 1 - 무형자산) 무형자산의 조건 _ 정윤돈 교수님",
-          "channel": "해커스 경영아카데미│세무사, 회계사, 경영지도사",
-          "publishedAt": "2019-10-01T08:29:05Z",
-          "thumbnail": "https://i.ytimg.com/vi/-WWcgv-1eeU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=-WWcgv-1eeU",
-          "kind": "playlist",
-          "playlistTitle": "무형자산"
-        },
-        {
-          "videoId": "q9X0tq-9QAU",
-          "title": "[해커스 세무사] 세무사 1차_객관식 재무회계_무형자산 상각_정윤돈 교수님",
-          "channel": "해커스 경영아카데미│세무사, 회계사, 경영지도사",
-          "publishedAt": "2020-02-14T04:54:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/q9X0tq-9QAU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=q9X0tq-9QAU",
-          "kind": "playlist",
-          "playlistTitle": "무형자산"
-        },
-        {
-          "videoId": "Qr_Otey3rO0",
-          "title": "세무사 재무회계 말문제 특강 9강｜무형자산｜24년 세무사 시험 대비｜에듀윌 황윤하 회계사",
-          "channel": "이지 회계사세무사 아카데미",
-          "publishedAt": "2024-03-08T06:00:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/Qr_Otey3rO0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Qr_Otey3rO0",
-          "kind": "playlist",
-          "playlistTitle": "무형자산"
-        },
-        {
-          "videoId": "RBdDy3S4bTE",
-          "title": "[세무사/회계사] 정윤돈 회계원리 '무형자산 계산문제'ㅣ세무사과목, 세무사큐넷, 회계사세무사, 세무사공부법",
-          "channel": "해커스 경영아카데미│세무사, 회계사, 경영지도사",
-          "publishedAt": "2021-10-18T11:00:19Z",
-          "thumbnail": "https://i.ytimg.com/vi/RBdDy3S4bTE/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=RBdDy3S4bTE",
-          "kind": "playlist",
-          "playlistTitle": "무형자산"
-        },
-        {
-          "videoId": "dyg3APQhFsY",
-          "title": "Ch 08 무형자산",
-          "channel": "모두의 회계학",
-          "publishedAt": "2019-05-21T11:00:05Z",
-          "thumbnail": "https://i.ytimg.com/vi/dyg3APQhFsY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=dyg3APQhFsY",
-          "kind": "playlist",
-          "playlistTitle": "무형자산"
         }
       ]
     }
