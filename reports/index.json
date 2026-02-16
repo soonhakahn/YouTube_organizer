@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-02-16T07:11:24+09:00",
+  "updatedAt": "2026-02-17T06:45:04+09:00",
   "status": "ok",
-  "summary": "# YouTube Organizer\n업데이트: 2026-02-16T07:11:24+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
+  "summary": "# YouTube Organizer\n업데이트: 2026-02-17T06:45:04+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
   "sections": [
     {
       "title": "Watch Later",
@@ -250,6 +250,16 @@
       "title": "Playlists",
       "items": [
         {
+          "videoId": "rNtBcmYc5xI",
+          "title": "AI시장 뒤흔든 클로드 코워크 윈도우 버전 출시! 이제 컴퓨터가 알아서 일합니다 (설치 및 사용법 공개)",
+          "channel": "유튜브신쌤",
+          "publishedAt": "2026-02-15T11:01:22Z",
+          "thumbnail": "https://i.ytimg.com/vi/rNtBcmYc5xI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=rNtBcmYc5xI",
+          "kind": "playlist",
+          "playlistTitle": "Claude Cowork"
+        },
+        {
           "videoId": "gqYyZuO34x0",
           "title": "How To Use Claude Code FREE Forever (Ollama Setup)",
           "channel": "Matt Penny | Applied AI",
@@ -346,6 +356,16 @@
           "publishedAt": "2026-01-27T09:00:05Z",
           "thumbnail": "https://i.ytimg.com/vi/30q_S5NPbrI/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=30q_S5NPbrI",
+          "kind": "playlist",
+          "playlistTitle": "주도주"
+        },
+        {
+          "videoId": "1QYfwrKLXmk",
+          "title": "이 영상 하나로 주식 매수 타점 끝! 주식투자 책 100권 이상 읽고 다시 정리한 단 하나의 종결 매수 타점ㅣ부자회사원 주식투자 강의 공부 책 추천",
+          "channel": "부자회사원",
+          "publishedAt": "2025-01-12T13:00:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/1QYfwrKLXmk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=1QYfwrKLXmk",
           "kind": "playlist",
           "playlistTitle": "주도주"
         },
@@ -1150,6 +1170,16 @@
           "playlistTitle": "Obsidian"
         },
         {
+          "videoId": "NQYzjrJ7jKY",
+          "title": "옵시디언 어려우셨던분들 꼭 보세요! 클로드 MCP의 엄청난 기능.옵시디언 노트 작성부터 유튜브 요약까지 (AI 팟캐스트 #57) @cmdspace @realhiroson",
+          "channel": "평범한 사업가",
+          "publishedAt": "2025-04-15T10:11:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/NQYzjrJ7jKY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=NQYzjrJ7jKY",
+          "kind": "playlist",
+          "playlistTitle": "Obsidian"
+        },
+        {
           "videoId": "SCoospwn-Qs",
           "title": "500달러 Cursor 구독 취소! 무료 AI 코딩 도구 Conductor로 갈아탄 이유",
           "channel": "Nova AI",
@@ -1218,16 +1248,6 @@
           "url": "https://www.youtube.com/watch?v=caWad6izVJs",
           "kind": "playlist",
           "playlistTitle": "김대식 교수 등"
-        },
-        {
-          "videoId": "a_8eGWutwcU",
-          "title": "컨설팅펌에서는 왜 이 엑셀 차트만 쓸까? feat.워터폴차트 #컴활 #엑셀 #excel #엑셀함수 #vlookup #xlookup #데이터분석가 #파워포인트 #엑셀차트",
-          "channel": "니니의엑셀",
-          "publishedAt": "2025-12-18T09:31:18Z",
-          "thumbnail": "https://i.ytimg.com/vi/a_8eGWutwcU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=a_8eGWutwcU",
-          "kind": "playlist",
-          "playlistTitle": "Waterfall chart"
         }
       ]
     }
