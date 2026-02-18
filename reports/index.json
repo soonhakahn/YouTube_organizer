@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-02-17T06:45:04+09:00",
+  "updatedAt": "2026-02-18T20:58:29+09:00",
   "status": "ok",
-  "summary": "# YouTube Organizer\n업데이트: 2026-02-17T06:45:04+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
+  "summary": "# YouTube Organizer\n업데이트: 2026-02-18T20:58:29+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
   "sections": [
     {
       "title": "Watch Later",
@@ -250,12 +250,172 @@
       "title": "Playlists",
       "items": [
         {
+          "videoId": "YonIc_Zg9j8",
+          "title": "(EP.06) 미니PC 홈서버 구축, 무료 VPN tailscale 세팅하는법",
+          "channel": "잇츠 매거진",
+          "publishedAt": "2025-03-22T07:53:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/YonIc_Zg9j8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=YonIc_Zg9j8",
+          "kind": "playlist",
+          "playlistTitle": "Tailscale"
+        },
+        {
+          "videoId": "BgRbqi7a33k",
+          "title": "밖에서 집 안 홈 네트워크 간단하게 접속하는 방법( 내 컴퓨터 VPN 간단 구축 방법 )",
+          "channel": "IT대왕",
+          "publishedAt": "2025-04-03T15:00:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/BgRbqi7a33k/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=BgRbqi7a33k",
+          "kind": "playlist",
+          "playlistTitle": "Tailscale"
+        },
+        {
+          "videoId": "vCM-demQ4MY",
+          "title": "22.Tailscale 원격 접근 완벽 가이드",
+          "channel": "Codedeck",
+          "publishedAt": "2026-02-05T23:31:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/vCM-demQ4MY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=vCM-demQ4MY",
+          "kind": "playlist",
+          "playlistTitle": "Tailscale"
+        },
+        {
+          "videoId": "86UzYJLEYwk",
+          "title": "TrueNAS 로 삼바 서버 구축하기",
+          "channel": "윈도우 포럼",
+          "publishedAt": "2021-09-20T01:14:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/86UzYJLEYwk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=86UzYJLEYwk",
+          "kind": "playlist",
+          "playlistTitle": "Tailscale"
+        },
+        {
+          "videoId": "1-YRSodCSqI",
+          "title": "로컬 게임 서버 공유, 이제 간단하게 - Tailscale",
+          "channel": "최흥배",
+          "publishedAt": "2026-01-29T11:00:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/1-YRSodCSqI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=1-YRSodCSqI",
+          "kind": "playlist",
+          "playlistTitle": "Tailscale"
+        },
+        {
+          "videoId": "LqAPkZujP18",
+          "title": "우리 집에 VPN 망을 구축해주는 프로그램 Tailscale  (외부에서도 우리집 네트워크에 접속 가능 )",
+          "channel": "컴테크",
+          "publishedAt": "2024-04-20T15:00:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/LqAPkZujP18/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=LqAPkZujP18",
+          "kind": "playlist",
+          "playlistTitle": "Tailscale"
+        },
+        {
+          "videoId": "Fdvu8VJOK30",
+          "title": "알고리즘이 설계한 '개미 지옥'의 함정.. AI트레이딩이 지배하는 증시에서 \"돈 버는 투자자가 되는 법\" |  전 월가트레이더 이용준 작가",
+          "channel": "815머니톡",
+          "publishedAt": "2026-01-24T06:00:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/Fdvu8VJOK30/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Fdvu8VJOK30",
+          "kind": "playlist",
+          "playlistTitle": "“돈 버는 투자자가 되는 법\" | 전 월가트레이더 이용준 작가"
+        },
+        {
+          "videoId": "4NrBjmQ36yg",
+          "title": "90%가 모르는 한글, 오피스, 포토샵까지 평생 무료로 사용하는 방법",
+          "channel": "오꿀오꿀",
+          "publishedAt": "2026-01-22T04:04:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/4NrBjmQ36yg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=4NrBjmQ36yg",
+          "kind": "playlist",
+          "playlistTitle": "Free MS Office_HWP"
+        },
+        {
+          "videoId": "DTZOmJQKpNQ",
+          "title": "클로드 코드 창시자가 직접 알려주는 클로드 코드 꿀팁 13가지",
+          "channel": "코드팩토리",
+          "publishedAt": "2026-01-05T04:02:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/DTZOmJQKpNQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=DTZOmJQKpNQ",
+          "kind": "playlist",
+          "playlistTitle": "Claude code"
+        },
+        {
+          "videoId": "hrpE_nZfS5c",
+          "title": "클로드 코드 설치 후 꼭 봐야하는 핵심 가이드 + PDF 증정",
+          "channel": "헤이, 제임스! - 코딩, AI, 창업",
+          "publishedAt": "2026-02-17T13:04:18Z",
+          "thumbnail": "https://i.ytimg.com/vi/hrpE_nZfS5c/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=hrpE_nZfS5c",
+          "kind": "playlist",
+          "playlistTitle": "Claude code"
+        },
+        {
+          "videoId": "i8z-MT-khLc",
+          "title": "클로드 베타테스터가 월 30만원 쓰면서 알게 된  클로드, 코워크, 클로드 코드. 핵심 정리",
+          "channel": "Close AI Club",
+          "publishedAt": "2026-02-14T14:38:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/i8z-MT-khLc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=i8z-MT-khLc",
+          "kind": "playlist",
+          "playlistTitle": "Claude code"
+        },
+        {
+          "videoId": "inIJk5PAIqg",
+          "title": "클로드를 좋아하는 세 번째 이유 : Skills 스킬즈",
+          "channel": "필로소피 AI 교육",
+          "publishedAt": "2026-02-15T23:49:20Z",
+          "thumbnail": "https://i.ytimg.com/vi/inIJk5PAIqg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=inIJk5PAIqg",
+          "kind": "playlist",
+          "playlistTitle": "Claude code"
+        },
+        {
+          "videoId": "9J_Ht537jn0",
+          "title": "클로드를 좋아하는 두 번째 이유 : 데스크탑 앱 + 클로드 코드",
+          "channel": "필로소피 AI 교육",
+          "publishedAt": "2026-02-15T00:33:33Z",
+          "thumbnail": "https://i.ytimg.com/vi/9J_Ht537jn0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=9J_Ht537jn0",
+          "kind": "playlist",
+          "playlistTitle": "Claude code"
+        },
+        {
+          "videoId": "bbA5s8io9vY",
+          "title": "MCP 서버 필요 없다? 웹사이트 자체가 도구가 되는 새로운 방식, WebMCP",
+          "channel": "Nova AI",
+          "publishedAt": "2026-02-17T00:00:47Z",
+          "thumbnail": "https://i.ytimg.com/vi/bbA5s8io9vY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=bbA5s8io9vY",
+          "kind": "playlist",
+          "playlistTitle": "WebMCP"
+        },
+        {
+          "videoId": "PyYxH6fWjXE",
+          "title": "구글이 발표한 웹 MCP, AI 에이전트 시대의 게임 체인저입니다",
+          "channel": "Tech Bridge",
+          "publishedAt": "2026-02-17T01:25:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/PyYxH6fWjXE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=PyYxH6fWjXE",
+          "kind": "playlist",
+          "playlistTitle": "WebMCP"
+        },
+        {
           "videoId": "rNtBcmYc5xI",
           "title": "AI시장 뒤흔든 클로드 코워크 윈도우 버전 출시! 이제 컴퓨터가 알아서 일합니다 (설치 및 사용법 공개)",
           "channel": "유튜브신쌤",
           "publishedAt": "2026-02-15T11:01:22Z",
           "thumbnail": "https://i.ytimg.com/vi/rNtBcmYc5xI/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=rNtBcmYc5xI",
+          "kind": "playlist",
+          "playlistTitle": "Claude Cowork"
+        },
+        {
+          "videoId": "4NrBjmQ36yg",
+          "title": "90%가 모르는 한글, 오피스, 포토샵까지 평생 무료로 사용하는 방법",
+          "channel": "오꿀오꿀",
+          "publishedAt": "2026-01-22T04:04:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/4NrBjmQ36yg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=4NrBjmQ36yg",
           "kind": "playlist",
           "playlistTitle": "Claude Cowork"
         },
@@ -300,6 +460,16 @@
           "playlistTitle": "MTS 화면설정"
         },
         {
+          "videoId": "Sx6OhFouZ_A",
+          "title": "주식 초보자들을 위한 종가베팅 hts 설정 / 야간 선물 미국 증시 주요 종목",
+          "channel": "돌팬티",
+          "publishedAt": "2026-02-18T01:12:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/Sx6OhFouZ_A/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Sx6OhFouZ_A",
+          "kind": "playlist",
+          "playlistTitle": "MTS 화면설정"
+        },
+        {
           "videoId": "jae2bVCCokc",
           "title": "skills.sh 하나면 AI 코딩 레벨이 달라집니다",
           "channel": "메이커 에반 | Maker Evan",
@@ -316,6 +486,16 @@
           "publishedAt": "2026-02-09T07:30:03Z",
           "thumbnail": "https://i.ytimg.com/vi/2eqPBLgVH0U/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=2eqPBLgVH0U",
+          "kind": "playlist",
+          "playlistTitle": "Skill.sh"
+        },
+        {
+          "videoId": "xc9a56Xp-Q0",
+          "title": "코딩 생존 전략: 구글 Antigravity Agent Skill 모르면 뒤쳐집니다",
+          "channel": "오준석의 생존코딩",
+          "publishedAt": "2026-01-14T08:20:58Z",
+          "thumbnail": "https://i.ytimg.com/vi/xc9a56Xp-Q0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=xc9a56Xp-Q0",
           "kind": "playlist",
           "playlistTitle": "Skill.sh"
         },
@@ -366,6 +546,36 @@
           "publishedAt": "2025-01-12T13:00:02Z",
           "thumbnail": "https://i.ytimg.com/vi/1QYfwrKLXmk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=1QYfwrKLXmk",
+          "kind": "playlist",
+          "playlistTitle": "주도주"
+        },
+        {
+          "videoId": "UK0cw6qarO0",
+          "title": "종목선정 '이것' 하나만 제대로 해두면 오를 주식이 보이기 시작합니다｜하루도 빠짐없이 보고있는 종목선정 필수화면 꿀팁",
+          "channel": "주식당",
+          "publishedAt": "2026-02-16T23:00:38Z",
+          "thumbnail": "https://i.ytimg.com/vi/UK0cw6qarO0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=UK0cw6qarO0",
+          "kind": "playlist",
+          "playlistTitle": "주도주"
+        },
+        {
+          "videoId": "YyqEDEel_uM",
+          "title": "음봉 하나만 제대로 볼 줄 알아도 급등 직전 잡아냅니다. 개미들이 가장 잘 털리는 상승형 음봉 매매패턴. (상승형음봉 검색식)",
+          "channel": "주식당",
+          "publishedAt": "2026-02-17T23:00:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/YyqEDEel_uM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=YyqEDEel_uM",
+          "kind": "playlist",
+          "playlistTitle": "주도주"
+        },
+        {
+          "videoId": "Sx6OhFouZ_A",
+          "title": "주식 초보자들을 위한 종가베팅 hts 설정 / 야간 선물 미국 증시 주요 종목",
+          "channel": "돌팬티",
+          "publishedAt": "2026-02-18T01:12:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/Sx6OhFouZ_A/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Sx6OhFouZ_A",
           "kind": "playlist",
           "playlistTitle": "주도주"
         },
@@ -1128,126 +1338,6 @@
           "url": "https://www.youtube.com/watch?v=ZgCIU5PeKjk",
           "kind": "playlist",
           "playlistTitle": "codex"
-        },
-        {
-          "videoId": "651g-AwwRkI",
-          "title": "회계사 세무사 회계 시간 내 다 푸는법 [ 계산기 기능 사용법 / 연습 방법 및 접근 방법 전수 ]",
-          "channel": "황셈",
-          "publishedAt": "2025-11-10T10:01:23Z",
-          "thumbnail": "https://i.ytimg.com/vi/651g-AwwRkI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=651g-AwwRkI",
-          "kind": "playlist",
-          "playlistTitle": "CTA 정보"
-        },
-        {
-          "videoId": "RqSNBdzSzaI",
-          "title": "계산기 하나 때문에 떨어졌습니다... (수험생이라면 꼭 보세요) 공인회계사, 세무사 수험생이 반드시 알아야 할 계산기 사용법 (최창규T)",
-          "channel": "윌비스 나무경영아카데미학원",
-          "publishedAt": "2025-04-30T06:55:48Z",
-          "thumbnail": "https://i.ytimg.com/vi/RqSNBdzSzaI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=RqSNBdzSzaI",
-          "kind": "playlist",
-          "playlistTitle": "CTA 정보"
-        },
-        {
-          "videoId": "JQFjhQPwD9I",
-          "title": "노션보다 강력한 옵시디언 사용법! AI 웹클리퍼 4종 | 유튜브·깃허브·도서·채용 자동 정리 | 템플릿 무료제공",
-          "channel": "배움의 달인 (AI·자동화)",
-          "publishedAt": "2026-01-04T13:39:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/JQFjhQPwD9I/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=JQFjhQPwD9I",
-          "kind": "playlist",
-          "playlistTitle": "Obsidian"
-        },
-        {
-          "videoId": "I0uggashIkE",
-          "title": "클로드 MCP를 활용하여 30시간 강의를 3시간으로 압축하는 학습법 ㅣAI 활용 학습법으로 자격증3개 취득",
-          "channel": "평범한 사업가",
-          "publishedAt": "2025-07-01T07:41:52Z",
-          "thumbnail": "https://i.ytimg.com/vi/I0uggashIkE/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=I0uggashIkE",
-          "kind": "playlist",
-          "playlistTitle": "Obsidian"
-        },
-        {
-          "videoId": "NQYzjrJ7jKY",
-          "title": "옵시디언 어려우셨던분들 꼭 보세요! 클로드 MCP의 엄청난 기능.옵시디언 노트 작성부터 유튜브 요약까지 (AI 팟캐스트 #57) @cmdspace @realhiroson",
-          "channel": "평범한 사업가",
-          "publishedAt": "2025-04-15T10:11:25Z",
-          "thumbnail": "https://i.ytimg.com/vi/NQYzjrJ7jKY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=NQYzjrJ7jKY",
-          "kind": "playlist",
-          "playlistTitle": "Obsidian"
-        },
-        {
-          "videoId": "SCoospwn-Qs",
-          "title": "500달러 Cursor 구독 취소! 무료 AI 코딩 도구 Conductor로 갈아탄 이유",
-          "channel": "Nova AI",
-          "publishedAt": "2026-01-04T04:00:25Z",
-          "thumbnail": "https://i.ytimg.com/vi/SCoospwn-Qs/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=SCoospwn-Qs",
-          "kind": "playlist",
-          "playlistTitle": "Conductor"
-        },
-        {
-          "videoId": "-Kml_NmHiGA",
-          "title": "무조건 설치해놔야 되는 1티어 크롬 확장 프로그램들",
-          "channel": "팁타임",
-          "publishedAt": "2025-06-02T09:00:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/-Kml_NmHiGA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=-Kml_NmHiGA",
-          "kind": "playlist",
-          "playlistTitle": "크롬확장프로그램"
-        },
-        {
-          "videoId": "3oIL71er4YI",
-          "title": "\"GPU 쓸 곳이 없어요.\" AI 시대 한국이 '멘붕'에 빠진 이유ㅣ지식인초대석 EP.88 (김대식 교수)",
-          "channel": "지식인사이드",
-          "publishedAt": "2026-01-03T01:00:05Z",
-          "thumbnail": "https://i.ytimg.com/vi/3oIL71er4YI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=3oIL71er4YI",
-          "kind": "playlist",
-          "playlistTitle": "김대식 교수 등"
-        },
-        {
-          "videoId": "FYg_MrcnwU8",
-          "title": "수백억 엑싯한 창업가가 매일 쓰는 AI 도구 3가지와 활용법 (데일리호텔 창업자 신재식님)",
-          "channel": "빌더 조쉬 Builder Josh",
-          "publishedAt": "2025-12-31T03:21:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/FYg_MrcnwU8/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=FYg_MrcnwU8",
-          "kind": "playlist",
-          "playlistTitle": "김대식 교수 등"
-        },
-        {
-          "videoId": "cQNfCj7xTcU",
-          "title": "🟣새해 극적으로 달라질 '이것' 지금부터 대비하세요 - 송길영 박사 1부 '20분 트렌드과외'",
-          "channel": "MKTV 김미경TV",
-          "publishedAt": "2026-01-05T10:30:23Z",
-          "thumbnail": "https://i.ytimg.com/vi/cQNfCj7xTcU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=cQNfCj7xTcU",
-          "kind": "playlist",
-          "playlistTitle": "김대식 교수 등"
-        },
-        {
-          "videoId": "36H0VEG7rIM",
-          "title": "🟣당분간 회사에서 '이런 말'은 절대 하지 마세요 - 송길영 박사 2부 '20분 트렌드과외'",
-          "channel": "MKTV 김미경TV",
-          "publishedAt": "2026-01-07T10:30:04Z",
-          "thumbnail": "https://i.ytimg.com/vi/36H0VEG7rIM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=36H0VEG7rIM",
-          "kind": "playlist",
-          "playlistTitle": "김대식 교수 등"
-        },
-        {
-          "videoId": "caWad6izVJs",
-          "title": "\"삶의 질이 10배 상승해요\" 최상위 1%만 알고 있는 AI 활용법 [김상윤 교수 풀버전]",
-          "channel": "부읽남TV_내집마련부터건물주까지",
-          "publishedAt": "2026-01-18T03:00:54Z",
-          "thumbnail": "https://i.ytimg.com/vi/caWad6izVJs/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=caWad6izVJs",
-          "kind": "playlist",
-          "playlistTitle": "김대식 교수 등"
         }
       ]
     }
