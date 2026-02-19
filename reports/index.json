@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-02-18T20:58:29+09:00",
+  "updatedAt": "2026-02-20T06:45:04+09:00",
   "status": "ok",
-  "summary": "# YouTube Organizer\n업데이트: 2026-02-18T20:58:29+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
+  "summary": "# YouTube Organizer\n업데이트: 2026-02-20T06:45:04+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
   "sections": [
     {
       "title": "Watch Later",
@@ -250,6 +250,36 @@
       "title": "Playlists",
       "items": [
         {
+          "videoId": "A-pKuT40Wck",
+          "title": "맥미니 샀어? AI야 일해야지 | Ralph Loop, AI를 24시간 야근시키는 방법",
+          "channel": "하리아빠 HariFatherKR",
+          "publishedAt": "2026-02-19T11:52:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/A-pKuT40Wck/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=A-pKuT40Wck",
+          "kind": "playlist",
+          "playlistTitle": "Ralph loop"
+        },
+        {
+          "videoId": "vLwz-fYnnFo",
+          "title": "[AI 리뷰] 클로드 코워크(Cowork)의 원리 이해, 이 영상이면 끝!",
+          "channel": "편집자P",
+          "publishedAt": "2026-02-09T15:01:52Z",
+          "thumbnail": "https://i.ytimg.com/vi/vLwz-fYnnFo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=vLwz-fYnnFo",
+          "kind": "playlist",
+          "playlistTitle": "Claude Cowork"
+        },
+        {
+          "videoId": "xBH4sUMnaqA",
+          "title": "[AI 리뷰] 클로드 코워크(Cowork)로 프레젠테이션 만들어보기",
+          "channel": "편집자P",
+          "publishedAt": "2026-02-08T12:55:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/xBH4sUMnaqA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=xBH4sUMnaqA",
+          "kind": "playlist",
+          "playlistTitle": "Claude Cowork"
+        },
+        {
           "videoId": "YonIc_Zg9j8",
           "title": "(EP.06) 미니PC 홈서버 구축, 무료 VPN tailscale 세팅하는법",
           "channel": "잇츠 매거진",
@@ -376,6 +406,16 @@
           "publishedAt": "2026-02-15T00:33:33Z",
           "thumbnail": "https://i.ytimg.com/vi/9J_Ht537jn0/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=9J_Ht537jn0",
+          "kind": "playlist",
+          "playlistTitle": "Claude code"
+        },
+        {
+          "videoId": "JNdaZqqxoC8",
+          "title": "요즘은 AI 비서가 대세이긴 하네요, Sonnet 4.6 그리고 요즘 개발하고 있는 것들",
+          "channel": "DevStefanCho 데브스테판초",
+          "publishedAt": "2026-02-18T14:31:42Z",
+          "thumbnail": "https://i.ytimg.com/vi/JNdaZqqxoC8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=JNdaZqqxoC8",
           "kind": "playlist",
           "playlistTitle": "Claude code"
         },
@@ -1318,26 +1358,6 @@
           "url": "https://www.youtube.com/watch?v=Ezpc_OC68Ng",
           "kind": "playlist",
           "playlistTitle": "Opencode"
-        },
-        {
-          "videoId": "0FCNZviWhQE",
-          "title": "이거 알아? PPT 목차선이 자동으로 생기는 신기한 방법 #ppt #파워포인트 #피피티 #프레젠테이션 #목차만들기 #엑셀 #파포 #shorts #구독",
-          "channel": "office_master",
-          "publishedAt": "2024-12-25T00:00:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/0FCNZviWhQE/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=0FCNZviWhQE",
-          "kind": "playlist",
-          "playlistTitle": "PPT"
-        },
-        {
-          "videoId": "ZgCIU5PeKjk",
-          "title": "(세계3위코딩) GPT로 바이브코딩 했더니 클로드코드 맞먹는 성능ㄷㄷ (WSL로 Codex 설치하는법)",
-          "channel": "성공지식백과",
-          "publishedAt": "2026-01-05T06:06:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/ZgCIU5PeKjk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ZgCIU5PeKjk",
-          "kind": "playlist",
-          "playlistTitle": "codex"
         }
       ]
     }
