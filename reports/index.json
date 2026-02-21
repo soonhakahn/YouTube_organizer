@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-02-20T06:45:04+09:00",
+  "updatedAt": "2026-02-22T08:45:33+09:00",
   "status": "ok",
-  "summary": "# YouTube Organizer\n업데이트: 2026-02-20T06:45:04+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
+  "summary": "# YouTube Organizer\n업데이트: 2026-02-22T08:45:33+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
   "sections": [
     {
       "title": "Watch Later",
@@ -250,6 +250,26 @@
       "title": "Playlists",
       "items": [
         {
+          "videoId": "Xe5wfMSbbJI",
+          "title": "전업 트레이더(만쥬) 주식매매 딱 붙어 지켜봤다(관점,매매방식,HTS셋팅) ep 36-1 (만쥬x수급단타왕 주식솔루션)",
+          "channel": "만쥬",
+          "publishedAt": "2025-03-27T09:14:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/Xe5wfMSbbJI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Xe5wfMSbbJI",
+          "kind": "playlist",
+          "playlistTitle": "만쥬 실황"
+        },
+        {
+          "videoId": "1NcvSwwX_1w",
+          "title": "이게 바로 종가베팅의 정석입니다. 종가베팅의 정석 그대로 빠짐없이 알려드립니다.",
+          "channel": "[주식] 더트레이딩tv",
+          "publishedAt": "2026-01-16T09:15:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/1NcvSwwX_1w/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=1NcvSwwX_1w",
+          "kind": "playlist",
+          "playlistTitle": "만쥬 실황"
+        },
+        {
           "videoId": "A-pKuT40Wck",
           "title": "맥미니 샀어? AI야 일해야지 | Ralph Loop, AI를 24시간 야근시키는 방법",
           "channel": "하리아빠 HariFatherKR",
@@ -276,6 +296,26 @@
           "publishedAt": "2026-02-08T12:55:06Z",
           "thumbnail": "https://i.ytimg.com/vi/xBH4sUMnaqA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=xBH4sUMnaqA",
+          "kind": "playlist",
+          "playlistTitle": "Claude Cowork"
+        },
+        {
+          "videoId": "5fJpNitnij8",
+          "title": "How to Use Claude Cowork Better Than 99% of People (Full Guide)",
+          "channel": "Mayank Aggarwal",
+          "publishedAt": "2026-02-13T15:00:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/5fJpNitnij8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=5fJpNitnij8",
+          "kind": "playlist",
+          "playlistTitle": "Claude Cowork"
+        },
+        {
+          "videoId": "buhxLzC3Pe4",
+          "title": "클로드 이 세팅 하나로 10배 빨라집니다 (AI 에이전트 팀)",
+          "channel": "텐빌더",
+          "publishedAt": "2026-02-20T08:13:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/buhxLzC3Pe4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=buhxLzC3Pe4",
           "kind": "playlist",
           "playlistTitle": "Claude Cowork"
         },
@@ -416,6 +456,36 @@
           "publishedAt": "2026-02-18T14:31:42Z",
           "thumbnail": "https://i.ytimg.com/vi/JNdaZqqxoC8/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=JNdaZqqxoC8",
+          "kind": "playlist",
+          "playlistTitle": "Claude code"
+        },
+        {
+          "videoId": "RE50UPRojIY",
+          "title": "클로드코드로 매출 대시보드 하루 만에 만들기! (스타터킷 무료 제공)",
+          "channel": "시민개발자 구씨",
+          "publishedAt": "2026-02-21T03:10:49Z",
+          "thumbnail": "https://i.ytimg.com/vi/RE50UPRojIY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=RE50UPRojIY",
+          "kind": "playlist",
+          "playlistTitle": "Claude code"
+        },
+        {
+          "videoId": "rGdyCUhmkqc",
+          "title": "클로드코드 AI를 텔레그램으로 어디서든 사용하세요 | 진짜 쉬움",
+          "channel": "코드깎는노인",
+          "publishedAt": "2026-02-21T03:18:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/rGdyCUhmkqc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=rGdyCUhmkqc",
+          "kind": "playlist",
+          "playlistTitle": "Claude code"
+        },
+        {
+          "videoId": "wDP91skrk5M",
+          "title": "How I Claude Code - AI에이전트 성능을 극대화하는 방법",
+          "channel": "커서맛피아 Cursor맛피아",
+          "publishedAt": "2025-12-19T02:02:42Z",
+          "thumbnail": "https://i.ytimg.com/vi/wDP91skrk5M/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=wDP91skrk5M",
           "kind": "playlist",
           "playlistTitle": "Claude code"
         },
@@ -1218,146 +1288,6 @@
           "url": "https://www.youtube.com/watch?v=AAd8taPTyTM",
           "kind": "playlist",
           "playlistTitle": "Claude code extension"
-        },
-        {
-          "videoId": "y5cze4tAXZU",
-          "title": "요즘 다들 클로드코드 말고 이거 쓴다면서요? | OpenCode 코딩 에이전트",
-          "channel": "개발동생",
-          "publishedAt": "2026-01-07T15:27:17Z",
-          "thumbnail": "https://i.ytimg.com/vi/y5cze4tAXZU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=y5cze4tAXZU",
-          "kind": "playlist",
-          "playlistTitle": "Opencode"
-        },
-        {
-          "videoId": "aNLwdP-uChA",
-          "title": "터미널에서 바로 실행되는 AI 코딩 도구! (Open Code)",
-          "channel": "Nova AI",
-          "publishedAt": "2026-01-06T03:00:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/aNLwdP-uChA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=aNLwdP-uChA",
-          "kind": "playlist",
-          "playlistTitle": "Opencode"
-        },
-        {
-          "videoId": "BhZofx0Ms88",
-          "title": "지금은 오픈코드를 시작하기 아주 좋은 시기입니다.(oh-my-opencode)",
-          "channel": "단테",
-          "publishedAt": "2026-01-11T08:57:13Z",
-          "thumbnail": "https://i.ytimg.com/vi/BhZofx0Ms88/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=BhZofx0Ms88",
-          "kind": "playlist",
-          "playlistTitle": "Opencode"
-        },
-        {
-          "videoId": "v8LO9xDer0c",
-          "title": "한국인이 만든 초특급 Agent tool Oh my Opencode 국뽕주의(영상을 찍었는데 Opencode가 막혀버렸 ㅠㅠ)",
-          "channel": "Alex AI",
-          "publishedAt": "2026-01-09T05:44:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/v8LO9xDer0c/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=v8LO9xDer0c",
-          "kind": "playlist",
-          "playlistTitle": "Opencode"
-        },
-        {
-          "videoId": "uuV1DcvObsg",
-          "title": "Oh My OpenCode (5 SUPER Agent/MCP/Prompt Config): This makes OPENCODE - A BEAST! REALLY GOOD Agents",
-          "channel": "AICodeKing",
-          "publishedAt": "2025-12-27T14:15:54Z",
-          "thumbnail": "https://i.ytimg.com/vi/uuV1DcvObsg/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=uuV1DcvObsg",
-          "kind": "playlist",
-          "playlistTitle": "Opencode"
-        },
-        {
-          "videoId": "M0P_wzJPxMU",
-          "title": "OpenCode Skills Feature - The Lazy Loading Game Changer",
-          "channel": "Darren Builds AI",
-          "publishedAt": "2025-12-27T18:00:25Z",
-          "thumbnail": "https://i.ytimg.com/vi/M0P_wzJPxMU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=M0P_wzJPxMU",
-          "kind": "playlist",
-          "playlistTitle": "Opencode"
-        },
-        {
-          "videoId": "9FW43mb1vTM",
-          "title": "OpenCode Is An Awesome Way To Use AI With Neovim & Tmux",
-          "channel": "Josean Martinez",
-          "publishedAt": "2025-08-26T16:00:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/9FW43mb1vTM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=9FW43mb1vTM",
-          "kind": "playlist",
-          "playlistTitle": "Opencode"
-        },
-        {
-          "videoId": "syK7yprJknM",
-          "title": "OpenCode just killed all vibe coding apps (it’s insane)",
-          "channel": "David Ondrej",
-          "publishedAt": "2026-01-13T23:07:05Z",
-          "thumbnail": "https://i.ytimg.com/vi/syK7yprJknM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=syK7yprJknM",
-          "kind": "playlist",
-          "playlistTitle": "Opencode"
-        },
-        {
-          "videoId": "DS37JuZ2IP8",
-          "title": "OpenCode + AntiGravity is INSANE!  🤯",
-          "channel": "Julian Goldie SEO",
-          "publishedAt": "2026-01-15T09:30:07Z",
-          "thumbnail": "https://i.ytimg.com/vi/DS37JuZ2IP8/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=DS37JuZ2IP8",
-          "kind": "playlist",
-          "playlistTitle": "Opencode"
-        },
-        {
-          "videoId": "dzDVt3-MTRk",
-          "title": "Antigravity + Opencode IS INCREDIBLE! Best AI Coding Workflow Solves EVERYTHING!",
-          "channel": "WorldofAI",
-          "publishedAt": "2026-01-22T07:44:05Z",
-          "thumbnail": "https://i.ytimg.com/vi/dzDVt3-MTRk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=dzDVt3-MTRk",
-          "kind": "playlist",
-          "playlistTitle": "Opencode"
-        },
-        {
-          "videoId": "G_Snfh2M41M",
-          "title": "Oh My OpenCode Is Actually Insane",
-          "channel": "Darren Builds AI",
-          "publishedAt": "2026-01-01T18:00:15Z",
-          "thumbnail": "https://i.ytimg.com/vi/G_Snfh2M41M/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=G_Snfh2M41M",
-          "kind": "playlist",
-          "playlistTitle": "Opencode"
-        },
-        {
-          "videoId": "nPxjq21PmTI",
-          "title": "Cursor 구독 해지했습니다. 무료 오픈소스 AI(OpenCode)로 부동산 데이터를 싹 다 긁어오는 법 (Feat. 제미나이 300불 무료)",
-          "channel": "호두의 AI 분석실",
-          "publishedAt": "2026-01-24T10:50:07Z",
-          "thumbnail": "https://i.ytimg.com/vi/nPxjq21PmTI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=nPxjq21PmTI",
-          "kind": "playlist",
-          "playlistTitle": "Opencode"
-        },
-        {
-          "videoId": "0ffYAhPfpS0",
-          "title": "[OPENCODE + n8n]으로 구축하는 미친 성능의 1인 에이전시",
-          "channel": "단테랩스",
-          "publishedAt": "2026-01-20T21:35:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/0ffYAhPfpS0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=0ffYAhPfpS0",
-          "kind": "playlist",
-          "playlistTitle": "Opencode"
-        },
-        {
-          "videoId": "Ezpc_OC68Ng",
-          "title": "OpenClaw 자비스 이렇게 씁니다! | AI 대시보드 + 비트코인 자동매매 실전 공개",
-          "channel": "배움의 달인 (AI·자동화)",
-          "publishedAt": "2026-02-14T09:00:20Z",
-          "thumbnail": "https://i.ytimg.com/vi/Ezpc_OC68Ng/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Ezpc_OC68Ng",
-          "kind": "playlist",
-          "playlistTitle": "Opencode"
         }
       ]
     }
