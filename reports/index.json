@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-02-22T08:46:39+09:00",
+  "updatedAt": "2026-02-23T06:45:05+09:00",
   "status": "ok",
-  "summary": "# YouTube Organizer\n업데이트: 2026-02-22T08:46:39+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
+  "summary": "# YouTube Organizer\n업데이트: 2026-02-23T06:45:05+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
   "sections": [
     {
       "title": "Watch Later",
@@ -250,6 +250,26 @@
       "title": "Playlists",
       "items": [
         {
+          "videoId": "dlb_XgFVrHQ",
+          "title": "7 Claude Code Agent Team Use Cases You Need to See",
+          "channel": "Mark Kashef",
+          "publishedAt": "2026-02-22T16:30:18Z",
+          "thumbnail": "https://i.ytimg.com/vi/dlb_XgFVrHQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=dlb_XgFVrHQ",
+          "kind": "playlist",
+          "playlistTitle": "Claude teams"
+        },
+        {
+          "videoId": "smnS41yxFD8",
+          "title": "[AI 팁] 한글 스킬 v1.0 무료 배포 + 사용법",
+          "channel": "편집자P",
+          "publishedAt": "2026-02-22T15:38:28Z",
+          "thumbnail": "https://i.ytimg.com/vi/smnS41yxFD8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=smnS41yxFD8",
+          "kind": "playlist",
+          "playlistTitle": "Claude skills"
+        },
+        {
           "videoId": "Xe5wfMSbbJI",
           "title": "전업 트레이더(만쥬) 주식매매 딱 붙어 지켜봤다(관점,매매방식,HTS셋팅) ep 36-1 (만쥬x수급단타왕 주식솔루션)",
           "channel": "만쥬",
@@ -270,12 +290,32 @@
           "playlistTitle": "만쥬 실황"
         },
         {
+          "videoId": "YNosOHke80M",
+          "title": "[추석특집] 수급만쥬왕 주식솔루션 3탄! ep.20-29 다시보기! (만쥬x수급단타왕)",
+          "channel": "만쥬",
+          "publishedAt": "2025-10-05T09:00:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/YNosOHke80M/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=YNosOHke80M",
+          "kind": "playlist",
+          "playlistTitle": "만쥬 실황"
+        },
+        {
           "videoId": "A-pKuT40Wck",
           "title": "맥미니 샀어? AI야 일해야지 | Ralph Loop, AI를 24시간 야근시키는 방법",
           "channel": "하리아빠 HariFatherKR",
           "publishedAt": "2026-02-19T11:52:34Z",
           "thumbnail": "https://i.ytimg.com/vi/A-pKuT40Wck/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=A-pKuT40Wck",
+          "kind": "playlist",
+          "playlistTitle": "Ralph loop"
+        },
+        {
+          "videoId": "aOJI944guKI",
+          "title": "이 명령어 모르면 Claude Code 손해입니다",
+          "channel": "메이커 에반 | Maker Evan",
+          "publishedAt": "2026-02-21T01:56:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/aOJI944guKI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=aOJI944guKI",
           "kind": "playlist",
           "playlistTitle": "Ralph loop"
         },
@@ -316,6 +356,46 @@
           "publishedAt": "2026-02-20T08:13:00Z",
           "thumbnail": "https://i.ytimg.com/vi/buhxLzC3Pe4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=buhxLzC3Pe4",
+          "kind": "playlist",
+          "playlistTitle": "Claude Cowork"
+        },
+        {
+          "videoId": "IqV6G7httGo",
+          "title": "새로 나온 클로드 코워크 직접 써봤습니다 ㅣ 1시간 → 1분, 이게 진짜 됩니다. Claude Cowork",
+          "channel": "텐빌더",
+          "publishedAt": "2026-01-23T08:23:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/IqV6G7httGo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=IqV6G7httGo",
+          "kind": "playlist",
+          "playlistTitle": "Claude Cowork"
+        },
+        {
+          "videoId": "UHUAVrojhio",
+          "title": "AI 10명한테 동시에 코딩 시킨다고? 역대급 업데이트된 클로드 Opus 4.6 그리고 에이전트 팀(Agent Teams)",
+          "channel": "텐빌더",
+          "publishedAt": "2026-02-15T01:12:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/UHUAVrojhio/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=UHUAVrojhio",
+          "kind": "playlist",
+          "playlistTitle": "Claude Cowork"
+        },
+        {
+          "videoId": "k1l4NJw5SF0",
+          "title": "바이브 코딩은 끝났다! 클로드 코드로 1시간 만에 결제 시스템까지 완성 에이전틱 코딩이란?",
+          "channel": "퀀텀점프클럽 QuantumJumpClub(QJC) ",
+          "publishedAt": "2026-01-31T04:18:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/k1l4NJw5SF0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=k1l4NJw5SF0",
+          "kind": "playlist",
+          "playlistTitle": "Claude Cowork"
+        },
+        {
+          "videoId": "DW4a1Cm8nG4",
+          "title": "I got a private lesson on Claude Cowork & Claude Code",
+          "channel": "Greg Isenberg",
+          "publishedAt": "2026-01-23T15:00:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/DW4a1Cm8nG4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=DW4a1Cm8nG4",
           "kind": "playlist",
           "playlistTitle": "Claude Cowork"
         },
@@ -486,6 +566,16 @@
           "publishedAt": "2025-12-19T02:02:42Z",
           "thumbnail": "https://i.ytimg.com/vi/wDP91skrk5M/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=wDP91skrk5M",
+          "kind": "playlist",
+          "playlistTitle": "Claude code"
+        },
+        {
+          "videoId": "aOJI944guKI",
+          "title": "이 명령어 모르면 Claude Code 손해입니다",
+          "channel": "메이커 에반 | Maker Evan",
+          "publishedAt": "2026-02-21T01:56:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/aOJI944guKI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=aOJI944guKI",
           "kind": "playlist",
           "playlistTitle": "Claude code"
         },
@@ -1198,96 +1288,6 @@
           "url": "https://www.youtube.com/watch?v=UdYOct4fuXc",
           "kind": "playlist",
           "playlistTitle": "Google Super Gem"
-        },
-        {
-          "videoId": "OehCeXuQHxY",
-          "title": "OpenAI 업데이트 Agent Builder.자동화 전문가가 처음부터 끝까지 알려드립니다 l AI 에이전시 쓸모랩 임근석(AI 팟캐스트 #72)",
-          "channel": "평범한 사업가",
-          "publishedAt": "2025-10-16T09:25:15Z",
-          "thumbnail": "https://i.ytimg.com/vi/OehCeXuQHxY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=OehCeXuQHxY",
-          "kind": "playlist",
-          "playlistTitle": "Open AI Agent Builder"
-        },
-        {
-          "videoId": "wic-K5oYXtk",
-          "title": "AI 에이전트 대결 — OPAL vs Agent Builder",
-          "channel": "CONNECT AI LAB",
-          "publishedAt": "2025-10-29T08:01:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/wic-K5oYXtk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=wic-K5oYXtk",
-          "kind": "playlist",
-          "playlistTitle": "Open AI Agent Builder"
-        },
-        {
-          "videoId": "RRFdEVIJ3zY",
-          "title": "드래그 앤 드롭만으로 만드는 AI 에이전트, OpenAI Agent Builder #shorts",
-          "channel": "조코딩 JoCoding",
-          "publishedAt": "2025-10-15T09:00:44Z",
-          "thumbnail": "https://i.ytimg.com/vi/RRFdEVIJ3zY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=RRFdEVIJ3zY",
-          "kind": "playlist",
-          "playlistTitle": "Open AI Agent Builder"
-        },
-        {
-          "videoId": "cnxJk1QBzVA",
-          "title": "OpenAi Agent Builder 초기초부터 10분안에 알려드립니다",
-          "channel": "딩코딩코",
-          "publishedAt": "2025-10-26T10:15:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/cnxJk1QBzVA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=cnxJk1QBzVA",
-          "kind": "playlist",
-          "playlistTitle": "Open AI Agent Builder"
-        },
-        {
-          "videoId": "g93XqSRxcAs",
-          "title": "OpenAI’s New Agent Builder is Insane - Full Tutorial",
-          "channel": "Tech With Tim",
-          "publishedAt": "2025-11-04T13:59:12Z",
-          "thumbnail": "https://i.ytimg.com/vi/g93XqSRxcAs/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=g93XqSRxcAs",
-          "kind": "playlist",
-          "playlistTitle": "Open AI Agent Builder"
-        },
-        {
-          "videoId": "3ChV6VgSbvo",
-          "title": "[AI회계사의 오토파일럿 #2] 💹 코드 한 줄 없이! OpenAI Agent Builder로 만드는 ‘AI 금융 비서’",
-          "channel": "AI 회계사 - Dream Factory ",
-          "publishedAt": "2025-11-07T13:24:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/3ChV6VgSbvo/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=3ChV6VgSbvo",
-          "kind": "playlist",
-          "playlistTitle": "Open AI Agent Builder"
-        },
-        {
-          "videoId": "47G1aEaNOKU",
-          "title": "How To Use ChatKit UI with OpenAI Agent Builder",
-          "channel": "corbin",
-          "publishedAt": "2025-10-18T14:30:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/47G1aEaNOKU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=47G1aEaNOKU",
-          "kind": "playlist",
-          "playlistTitle": "Open AI Agent Builder"
-        },
-        {
-          "videoId": "prulDeo3giI",
-          "title": "\"사무직 다 큰일났습니다... \" 클로드 새 기능 업데이트 claude in chrome, 크롤링, 문서 생성까지 자동으로!!! 익스텐션 소개",
-          "channel": "코난쌤 conanssam",
-          "publishedAt": "2026-01-08T12:56:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/prulDeo3giI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=prulDeo3giI",
-          "kind": "playlist",
-          "playlistTitle": "Claude code extension"
-        },
-        {
-          "videoId": "AAd8taPTyTM",
-          "title": "AI 코딩 그렇게 하는 거 아닌데 - 켄트 백 (40년차)",
-          "channel": "딩코딩코",
-          "publishedAt": "2025-11-09T10:15:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/AAd8taPTyTM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=AAd8taPTyTM",
-          "kind": "playlist",
-          "playlistTitle": "Claude code extension"
         }
       ]
     }
