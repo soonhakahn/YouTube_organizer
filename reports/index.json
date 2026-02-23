@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-02-23T06:45:05+09:00",
+  "updatedAt": "2026-02-24T06:45:08+09:00",
   "status": "ok",
-  "summary": "# YouTube Organizer\n업데이트: 2026-02-23T06:45:05+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
+  "summary": "# YouTube Organizer\n업데이트: 2026-02-24T06:45:08+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
   "sections": [
     {
       "title": "Watch Later",
@@ -250,6 +250,16 @@
       "title": "Playlists",
       "items": [
         {
+          "videoId": "dmlTgpTJdbM",
+          "title": "클로드 코드 경험을 영원히 바꿔줄 터미널. 글자 깨짐, 스크롤 버그 모두 없어집니다.",
+          "channel": "코드팩토리",
+          "publishedAt": "2026-01-08T02:11:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/dmlTgpTJdbM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=dmlTgpTJdbM",
+          "kind": "playlist",
+          "playlistTitle": "Warp"
+        },
+        {
           "videoId": "dlb_XgFVrHQ",
           "title": "7 Claude Code Agent Team Use Cases You Need to See",
           "channel": "Mark Kashef",
@@ -266,6 +276,26 @@
           "publishedAt": "2026-02-22T15:38:28Z",
           "thumbnail": "https://i.ytimg.com/vi/smnS41yxFD8/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=smnS41yxFD8",
+          "kind": "playlist",
+          "playlistTitle": "Claude skills"
+        },
+        {
+          "videoId": "dmlTgpTJdbM",
+          "title": "클로드 코드 경험을 영원히 바꿔줄 터미널. 글자 깨짐, 스크롤 버그 모두 없어집니다.",
+          "channel": "코드팩토리",
+          "publishedAt": "2026-01-08T02:11:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/dmlTgpTJdbM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=dmlTgpTJdbM",
+          "kind": "playlist",
+          "playlistTitle": "Claude skills"
+        },
+        {
+          "videoId": "MDAfjhFC9E4",
+          "title": "내년도 솔크일 형님들을 위한 코팩의 선물. 만능 Claude Skills 무료로 뿌립니다",
+          "channel": "코드팩토리",
+          "publishedAt": "2025-12-23T03:03:32Z",
+          "thumbnail": "https://i.ytimg.com/vi/MDAfjhFC9E4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=MDAfjhFC9E4",
           "kind": "playlist",
           "playlistTitle": "Claude skills"
         },
@@ -576,6 +606,56 @@
           "publishedAt": "2026-02-21T01:56:35Z",
           "thumbnail": "https://i.ytimg.com/vi/aOJI944guKI/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=aOJI944guKI",
+          "kind": "playlist",
+          "playlistTitle": "Claude code"
+        },
+        {
+          "videoId": "dmlTgpTJdbM",
+          "title": "클로드 코드 경험을 영원히 바꿔줄 터미널. 글자 깨짐, 스크롤 버그 모두 없어집니다.",
+          "channel": "코드팩토리",
+          "publishedAt": "2026-01-08T02:11:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/dmlTgpTJdbM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=dmlTgpTJdbM",
+          "kind": "playlist",
+          "playlistTitle": "Claude code"
+        },
+        {
+          "videoId": "QoQBzR1NIqI",
+          "title": "CLAUDE CODE FULL COURSE 4 HOURS: Build & Sell (2026)",
+          "channel": "Nick Saraev",
+          "publishedAt": "2026-02-12T17:14:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/QoQBzR1NIqI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=QoQBzR1NIqI",
+          "kind": "playlist",
+          "playlistTitle": "Claude code"
+        },
+        {
+          "videoId": "PQU9o_5rHC4",
+          "title": "Inside Claude Code With Its Creator Boris Cherny",
+          "channel": "Y Combinator",
+          "publishedAt": "2026-02-17T15:00:42Z",
+          "thumbnail": "https://i.ytimg.com/vi/PQU9o_5rHC4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=PQU9o_5rHC4",
+          "kind": "playlist",
+          "playlistTitle": "Claude code"
+        },
+        {
+          "videoId": "C6xlOsQFyOQ",
+          "title": "코딩 1도 모르는 직장인을 위한 Claude Code 시작 가이드",
+          "channel": "일잘러 장피엠",
+          "publishedAt": "2026-02-13T08:00:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/C6xlOsQFyOQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=C6xlOsQFyOQ",
+          "kind": "playlist",
+          "playlistTitle": "Claude code"
+        },
+        {
+          "videoId": "RFKCzGlAU6Q",
+          "title": "How Claude Code Works - Jared Zoneraich, PromptLayer",
+          "channel": "AI Engineer",
+          "publishedAt": "2025-12-26T22:04:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/RFKCzGlAU6Q/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=RFKCzGlAU6Q",
           "kind": "playlist",
           "playlistTitle": "Claude code"
         },
@@ -1278,16 +1358,6 @@
           "url": "https://www.youtube.com/watch?v=nJfqO5edMFk",
           "kind": "playlist",
           "playlistTitle": "AI Orchestration"
-        },
-        {
-          "videoId": "UdYOct4fuXc",
-          "title": "구글 제미나이3 최신 기능! '슈퍼젬스'로 1분 만에 업무 자동화",
-          "channel": "마케터 핀의 AI 생존기",
-          "publishedAt": "2026-01-10T07:04:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/UdYOct4fuXc/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=UdYOct4fuXc",
-          "kind": "playlist",
-          "playlistTitle": "Google Super Gem"
         }
       ]
     }
