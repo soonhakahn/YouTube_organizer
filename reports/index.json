@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-02-24T06:45:08+09:00",
+  "updatedAt": "2026-02-26T06:45:10+09:00",
   "status": "ok",
-  "summary": "# YouTube Organizer\n업데이트: 2026-02-24T06:45:08+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
+  "summary": "# YouTube Organizer\n업데이트: 2026-02-26T06:45:10+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
   "sections": [
     {
       "title": "Watch Later",
@@ -261,11 +261,21 @@
         },
         {
           "videoId": "dlb_XgFVrHQ",
-          "title": "7 Claude Code Agent Team Use Cases You Need to See",
+          "title": "7 Things You Can Build with Claude Code Agent Teams",
           "channel": "Mark Kashef",
           "publishedAt": "2026-02-22T16:30:18Z",
           "thumbnail": "https://i.ytimg.com/vi/dlb_XgFVrHQ/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=dlb_XgFVrHQ",
+          "kind": "playlist",
+          "playlistTitle": "Claude teams"
+        },
+        {
+          "videoId": "Yknt-uI2Mkc",
+          "title": "AI가 팀을 꾸려서 일한다 Claude Code 팀 에이전트 완벽 가이드",
+          "channel": "데브로더 타래",
+          "publishedAt": "2026-02-21T08:06:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/Yknt-uI2Mkc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Yknt-uI2Mkc",
           "kind": "playlist",
           "playlistTitle": "Claude teams"
         },
@@ -296,6 +306,16 @@
           "publishedAt": "2025-12-23T03:03:32Z",
           "thumbnail": "https://i.ytimg.com/vi/MDAfjhFC9E4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=MDAfjhFC9E4",
+          "kind": "playlist",
+          "playlistTitle": "Claude skills"
+        },
+        {
+          "videoId": "uusqQq-S2JA",
+          "title": "클로드 Agent Skill 완벽 활용 가이드 | 초보도 따라하는 claude 커스텀 스킬 만들기",
+          "channel": "AI싱크클럽",
+          "publishedAt": "2025-10-22T09:15:40Z",
+          "thumbnail": "https://i.ytimg.com/vi/uusqQq-S2JA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=uusqQq-S2JA",
           "kind": "playlist",
           "playlistTitle": "Claude skills"
         },
@@ -660,11 +680,31 @@
           "playlistTitle": "Claude code"
         },
         {
+          "videoId": "ty031hFXsmQ",
+          "title": "또 수많은 프로젝트들을 삭제해버린 앤트로픽. 클코 공식 원격 기능 업데이트",
+          "channel": "코드팩토리",
+          "publishedAt": "2026-02-25T09:01:17Z",
+          "thumbnail": "https://i.ytimg.com/vi/ty031hFXsmQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ty031hFXsmQ",
+          "kind": "playlist",
+          "playlistTitle": "Claude code"
+        },
+        {
+          "videoId": "5KW8GtqHSX0",
+          "title": "클로드 코드 업데이트 LSP! 게임체인저 등장, 이거 모르면 클로드코드 반도 못씁니다",
+          "channel": "코난쌤 conanssam",
+          "publishedAt": "2025-12-28T09:00:20Z",
+          "thumbnail": "https://i.ytimg.com/vi/5KW8GtqHSX0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=5KW8GtqHSX0",
+          "kind": "playlist",
+          "playlistTitle": "Claude code"
+        },
+        {
           "videoId": "bbA5s8io9vY",
-          "title": "MCP 서버 필요 없다? 웹사이트 자체가 도구가 되는 새로운 방식, WebMCP",
-          "channel": "Nova AI",
-          "publishedAt": "2026-02-17T00:00:47Z",
-          "thumbnail": "https://i.ytimg.com/vi/bbA5s8io9vY/mqdefault.jpg",
+          "title": "Private video",
+          "channel": "soonhak ahn",
+          "publishedAt": "2026-02-17T00:15:16Z",
+          "thumbnail": null,
           "url": "https://www.youtube.com/watch?v=bbA5s8io9vY",
           "kind": "playlist",
           "playlistTitle": "WebMCP"
@@ -781,10 +821,10 @@
         },
         {
           "videoId": "SCVgdms-s80",
-          "title": "GPT-5 비상? 코딩 1위 찍은 역대급 오픈소스 GLM 5 🚀",
-          "channel": "Nova AI",
-          "publishedAt": "2026-02-13T08:30:11Z",
-          "thumbnail": "https://i.ytimg.com/vi/SCVgdms-s80/mqdefault.jpg",
+          "title": "Deleted video",
+          "channel": "soonhak ahn",
+          "publishedAt": "2026-02-13T16:16:03Z",
+          "thumbnail": null,
           "url": "https://www.youtube.com/watch?v=SCVgdms-s80",
           "kind": "playlist",
           "playlistTitle": "GLM5"
@@ -991,10 +1031,10 @@
         },
         {
           "videoId": "9MGufXi8y6I",
-          "title": "24시간 나 대신 일하는 AI 동료, Clawdbot 설치 및 활용 가이드",
-          "channel": "Nova AI",
-          "publishedAt": "2026-01-26T02:00:13Z",
-          "thumbnail": "https://i.ytimg.com/vi/9MGufXi8y6I/mqdefault.jpg",
+          "title": "Deleted video",
+          "channel": "soonhak ahn",
+          "publishedAt": "2026-01-26T02:46:11Z",
+          "thumbnail": null,
           "url": "https://www.youtube.com/watch?v=9MGufXi8y6I",
           "kind": "playlist",
           "playlistTitle": "Clawdbot"
@@ -1071,30 +1111,30 @@
         },
         {
           "videoId": "9blBcumiaa8",
-          "title": "\"모든 구독 플랜을 취소했습니다\" - AI 에이전트로 월 300만 원 절약하는 법",
-          "channel": "Nova AI",
-          "publishedAt": "2026-02-01T07:00:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/9blBcumiaa8/mqdefault.jpg",
+          "title": "Deleted video",
+          "channel": "soonhak ahn",
+          "publishedAt": "2026-02-01T08:12:26Z",
+          "thumbnail": null,
           "url": "https://www.youtube.com/watch?v=9blBcumiaa8",
           "kind": "playlist",
           "playlistTitle": "Clawdbot"
         },
         {
           "videoId": "cvw_e3E8pWY",
-          "title": "\"ClawdBot이 직접 전화를?\" AI에게 뇌와 근육을 달아주는 방법",
-          "channel": "Nova AI",
-          "publishedAt": "2026-02-01T08:00:50Z",
-          "thumbnail": "https://i.ytimg.com/vi/cvw_e3E8pWY/mqdefault.jpg",
+          "title": "Deleted video",
+          "channel": "soonhak ahn",
+          "publishedAt": "2026-02-01T08:24:50Z",
+          "thumbnail": null,
           "url": "https://www.youtube.com/watch?v=cvw_e3E8pWY",
           "kind": "playlist",
           "playlistTitle": "Clawdbot"
         },
         {
           "videoId": "sgB4mM9q-ME",
-          "title": "AI 대세 OpenClaw, 고장 없이 업데이트하고 버전 관리하는 법",
-          "channel": "Nova AI",
-          "publishedAt": "2026-02-01T09:01:13Z",
-          "thumbnail": "https://i.ytimg.com/vi/sgB4mM9q-ME/mqdefault.jpg",
+          "title": "Deleted video",
+          "channel": "soonhak ahn",
+          "publishedAt": "2026-02-01T09:25:07Z",
+          "thumbnail": null,
           "url": "https://www.youtube.com/watch?v=sgB4mM9q-ME",
           "kind": "playlist",
           "playlistTitle": "Clawdbot"
@@ -1141,10 +1181,10 @@
         },
         {
           "videoId": "j7lVX2Q3W-k",
-          "title": "24시간 AI 비서 끝판왕은? Memubot vs Open Claw 전격 비교!",
-          "channel": "Nova AI",
-          "publishedAt": "2026-02-05T22:47:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/j7lVX2Q3W-k/mqdefault.jpg",
+          "title": "Deleted video",
+          "channel": "soonhak ahn",
+          "publishedAt": "2026-02-06T11:47:43Z",
+          "thumbnail": null,
           "url": "https://www.youtube.com/watch?v=j7lVX2Q3W-k",
           "kind": "playlist",
           "playlistTitle": "Clawdbot"
@@ -1211,10 +1251,10 @@
         },
         {
           "videoId": "WUMOO-X4YsI",
-          "title": "디자인이 코드가 되는 마법! Google Stitch MCP 업데이트가 미쳤습니다",
-          "channel": "Nova AI",
-          "publishedAt": "2026-01-23T02:00:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/WUMOO-X4YsI/mqdefault.jpg",
+          "title": "Deleted video",
+          "channel": "soonhak ahn",
+          "publishedAt": "2026-01-23T03:43:58Z",
+          "thumbnail": null,
           "url": "https://www.youtube.com/watch?v=WUMOO-X4YsI",
           "kind": "playlist",
           "playlistTitle": "Google Stitch MCP"
@@ -1271,10 +1311,10 @@
         },
         {
           "videoId": "ty9uyJEY4EQ",
-          "title": "Claude Cowork 유료로 쓰지 마세요: 전체 소스 코드가 공개된 OpenWork.ai",
-          "channel": "Nova AI",
-          "publishedAt": "2026-01-22T05:00:56Z",
-          "thumbnail": "https://i.ytimg.com/vi/ty9uyJEY4EQ/mqdefault.jpg",
+          "title": "Deleted video",
+          "channel": "soonhak ahn",
+          "publishedAt": "2026-01-22T15:18:46Z",
+          "thumbnail": null,
           "url": "https://www.youtube.com/watch?v=ty9uyJEY4EQ",
           "kind": "playlist",
           "playlistTitle": "Claude cowork"
@@ -1291,10 +1331,10 @@
         },
         {
           "videoId": "7wneTLhqeL8",
-          "title": "월 200달러 아끼는 법! Claude Code를 완전 무료로 사용하는 로컬 설정 가이드",
-          "channel": "Nova AI",
-          "publishedAt": "2026-02-12T04:00:04Z",
-          "thumbnail": "https://i.ytimg.com/vi/7wneTLhqeL8/mqdefault.jpg",
+          "title": "Private video",
+          "channel": "soonhak ahn",
+          "publishedAt": "2026-02-12T14:47:34Z",
+          "thumbnail": null,
           "url": "https://www.youtube.com/watch?v=7wneTLhqeL8",
           "kind": "playlist",
           "playlistTitle": "Claude cowork"
@@ -1341,10 +1381,10 @@
         },
         {
           "videoId": "YMrGXr9hyW8",
-          "title": "구글 Gemini가 만드는 '살아있는' 코드 문서, Code Wiki 사용법 및 핵심 정리",
-          "channel": "Nova AI",
-          "publishedAt": "2026-01-11T04:00:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/YMrGXr9hyW8/mqdefault.jpg",
+          "title": "Deleted video",
+          "channel": "soonhak ahn",
+          "publishedAt": "2026-01-11T20:34:17Z",
+          "thumbnail": null,
           "url": "https://www.youtube.com/watch?v=YMrGXr9hyW8",
           "kind": "playlist",
           "playlistTitle": "Code Wiki"
