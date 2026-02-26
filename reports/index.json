@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-02-26T06:45:28+09:00",
+  "updatedAt": "2026-02-27T07:54:09+09:00",
   "status": "ok",
-  "summary": "# YouTube Organizer\n업데이트: 2026-02-26T06:45:28+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
+  "summary": "# YouTube Organizer\n업데이트: 2026-02-27T07:54:09+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
   "sections": [
     {
       "title": "Watch Later",
@@ -1141,10 +1141,10 @@
         },
         {
           "videoId": "j0XCCFEoXRk",
-          "title": "OpenClaw 스킬 통합으로 나만의 맞춤형 AI 만들기",
-          "channel": "Nova AI",
-          "publishedAt": "2026-02-03T00:00:48Z",
-          "thumbnail": "https://i.ytimg.com/vi/j0XCCFEoXRk/mqdefault.jpg",
+          "title": "Deleted video",
+          "channel": "soonhak ahn",
+          "publishedAt": "2026-02-03T03:43:02Z",
+          "thumbnail": null,
           "url": "https://www.youtube.com/watch?v=j0XCCFEoXRk",
           "kind": "playlist",
           "playlistTitle": "Clawdbot"
