@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-02-28T06:45:05+09:00",
+  "updatedAt": "2026-03-03T21:22:04+09:00",
   "status": "ok",
-  "summary": "# YouTube Organizer\n업데이트: 2026-02-28T06:45:05+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
+  "summary": "# YouTube Organizer\n업데이트: 2026-03-03T21:22:04+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
   "sections": [
     {
       "title": "Watch Later",
@@ -249,6 +249,36 @@
     {
       "title": "Playlists",
       "items": [
+        {
+          "videoId": "WanGI2sw_xI",
+          "title": "[키움영웅전 우승자 특강 풀버전 - 종가매매편] \"가장 위험할 때는 가장 확신이 들 때에요. 그 때 비중을 많이 싣거든요\" - 신정재 트레이더",
+          "channel": "2026 키움영웅전",
+          "publishedAt": "2025-01-03T09:00:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/WanGI2sw_xI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=WanGI2sw_xI",
+          "kind": "playlist",
+          "playlistTitle": "종가매매"
+        },
+        {
+          "videoId": "obCEmcBBe-M",
+          "title": "NVIDIA, HBM 버리고 택한 이것... GTC 2026 공개할 AI 추론칩 신의 한수 | 삼성 파운드리 부활로 보는 이유",
+          "channel": "안될공학 - IT 테크 신기술",
+          "publishedAt": "2026-03-01T16:27:33Z",
+          "thumbnail": "https://i.ytimg.com/vi/obCEmcBBe-M/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=obCEmcBBe-M",
+          "kind": "playlist",
+          "playlistTitle": "HBM_Memory"
+        },
+        {
+          "videoId": "pvklf7HoriU",
+          "title": "1000억짜리 SaaS 서비스를 30분 만에 만들었습니다 (feat. 클로드 코드 에이전트 팀)",
+          "channel": "텐빌더",
+          "publishedAt": "2026-03-02T00:12:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/pvklf7HoriU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=pvklf7HoriU",
+          "kind": "playlist",
+          "playlistTitle": "SAAS_Claude"
+        },
         {
           "videoId": "dmlTgpTJdbM",
           "title": "클로드 코드 경험을 영원히 바꿔줄 터미널. 글자 깨짐, 스크롤 버그 모두 없어집니다.",
@@ -746,6 +776,16 @@
           "publishedAt": "2026-02-05T16:16:23Z",
           "thumbnail": "https://i.ytimg.com/vi/gqYyZuO34x0/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=gqYyZuO34x0",
+          "kind": "playlist",
+          "playlistTitle": "Ollama"
+        },
+        {
+          "videoId": "N7CQdYaeUEE",
+          "title": "Claude Code + Ollama = Free Unlimited Coding AI",
+          "channel": "Eric Tech",
+          "publishedAt": "2026-02-16T14:00:28Z",
+          "thumbnail": "https://i.ytimg.com/vi/N7CQdYaeUEE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=N7CQdYaeUEE",
           "kind": "playlist",
           "playlistTitle": "Ollama"
         },
@@ -1358,46 +1398,6 @@
           "url": "https://www.youtube.com/watch?v=rE2oJMB8cCM",
           "kind": "playlist",
           "playlistTitle": "GPT Mailing schedule"
-        },
-        {
-          "videoId": "HFFFokfO5Js",
-          "title": "구글 제미나이3 슈퍼젬스 사용법, 1분 만에 업무 자동화",
-          "channel": "잘 파는 청년 [네이버플레이스 전문가]",
-          "publishedAt": "2026-01-17T04:47:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/HFFFokfO5Js/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=HFFFokfO5Js",
-          "kind": "playlist",
-          "playlistTitle": "Gemini Super Gem"
-        },
-        {
-          "videoId": "GgJ1hGWdhss",
-          "title": "모든 컨설턴트들이 절대 말 못 하는 AI 사용법, 내가 직접 설계하는 0원 컨설팅! 소수만 아는 제미나이, 챗지지티의 보석같은 기능들 #챗지피티 #제미나이 #수노ai",
-          "channel": "노모어매뉴얼",
-          "publishedAt": "2026-01-21T13:44:30Z",
-          "thumbnail": "https://i.ytimg.com/vi/GgJ1hGWdhss/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=GgJ1hGWdhss",
-          "kind": "playlist",
-          "playlistTitle": "Gemini Super Gem"
-        },
-        {
-          "videoId": "YMrGXr9hyW8",
-          "title": "Deleted video",
-          "channel": "soonhak ahn",
-          "publishedAt": "2026-01-11T20:34:17Z",
-          "thumbnail": null,
-          "url": "https://www.youtube.com/watch?v=YMrGXr9hyW8",
-          "kind": "playlist",
-          "playlistTitle": "Code Wiki"
-        },
-        {
-          "videoId": "nJfqO5edMFk",
-          "title": "AI들끼리 일하게 만들기 (Antigravity, Claudecode, GPT, Gemini, Codex) Multi LLM Agent",
-          "channel": "Alex AI",
-          "publishedAt": "2026-01-10T00:24:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/nJfqO5edMFk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=nJfqO5edMFk",
-          "kind": "playlist",
-          "playlistTitle": "AI Orchestration"
         }
       ]
     }
