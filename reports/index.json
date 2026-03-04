@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-03-04T06:45:05+09:00",
+  "updatedAt": "2026-03-05T06:45:05+09:00",
   "status": "ok",
-  "summary": "# YouTube Organizer\n업데이트: 2026-03-04T06:45:05+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
+  "summary": "# YouTube Organizer\n업데이트: 2026-03-05T06:45:05+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
   "sections": [
     {
       "title": "Watch Later",
@@ -271,7 +271,7 @@
         },
         {
           "videoId": "pvklf7HoriU",
-          "title": "1000억짜리 SaaS 서비스를 30분 만에 만들었습니다 (feat. 클로드 코드 에이전트 팀)",
+          "title": "AI로 30분 만에 SaaS 만드는 법 (실제 코드 3,013줄)",
           "channel": "텐빌더",
           "publishedAt": "2026-03-02T00:12:00Z",
           "thumbnail": "https://i.ytimg.com/vi/pvklf7HoriU/mqdefault.jpg",
@@ -346,6 +346,16 @@
           "publishedAt": "2025-10-22T09:15:40Z",
           "thumbnail": "https://i.ytimg.com/vi/uusqQq-S2JA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=uusqQq-S2JA",
+          "kind": "playlist",
+          "playlistTitle": "Claude skills"
+        },
+        {
+          "videoId": "Zi9xydCDw_w",
+          "title": "Claude Code + NotebookLM = 치트 코드입니다",
+          "channel": "Tech Bridge",
+          "publishedAt": "2026-03-04T12:59:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/Zi9xydCDw_w/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Zi9xydCDw_w",
           "kind": "playlist",
           "playlistTitle": "Claude skills"
         },
