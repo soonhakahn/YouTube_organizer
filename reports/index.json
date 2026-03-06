@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-03-06T06:45:07+09:00",
+  "updatedAt": "2026-03-07T06:45:04+09:00",
   "status": "ok",
-  "summary": "# YouTube Organizer\n업데이트: 2026-03-06T06:45:07+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
+  "summary": "# YouTube Organizer\n업데이트: 2026-03-07T06:45:04+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
   "sections": [
     {
       "title": "Watch Later",
@@ -249,6 +249,16 @@
     {
       "title": "Playlists",
       "items": [
+        {
+          "videoId": "JcqsqFNFiWw",
+          "title": "AI 바이브 코딩으로 프로그래밍 언어를 만들어봤습니다 | ChatGPT Codex",
+          "channel": "코드깎는노인",
+          "publishedAt": "2026-03-05T23:17:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/JcqsqFNFiWw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=JcqsqFNFiWw",
+          "kind": "playlist",
+          "playlistTitle": "Codex"
+        },
         {
           "videoId": "WanGI2sw_xI",
           "title": "[키움영웅전 우승자 특강 풀버전 - 종가매매편] \"가장 위험할 때는 가장 확신이 들 때에요. 그 때 비중을 많이 싣거든요\" - 신정재 트레이더",
@@ -1398,16 +1408,6 @@
           "url": "https://www.youtube.com/watch?v=XWZ2IvgsFrk",
           "kind": "playlist",
           "playlistTitle": "Claude cowork"
-        },
-        {
-          "videoId": "rE2oJMB8cCM",
-          "title": "Chatgpt로 매일 아침 관심뉴스 자동으로 받는 가장 쉬운 방법 (코딩 몰라도 OK)",
-          "channel": "쉬운AI",
-          "publishedAt": "2026-01-17T11:39:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/rE2oJMB8cCM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=rE2oJMB8cCM",
-          "kind": "playlist",
-          "playlistTitle": "GPT Mailing schedule"
         }
       ]
     }
