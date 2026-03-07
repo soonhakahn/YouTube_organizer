@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-03-07T06:45:04+09:00",
+  "updatedAt": "2026-03-08T06:45:06+09:00",
   "status": "ok",
-  "summary": "# YouTube Organizer\n업데이트: 2026-03-07T06:45:04+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
+  "summary": "# YouTube Organizer\n업데이트: 2026-03-08T06:45:06+09:00\n\n## 개요\n- Watch Later: 0개(표시 상위)\n- Liked: 26개(표시 상위)\n- Playlists: 30개(표시 상위)\n\n## 사용 팁\n- PWA에서 항목을 누르면 YouTube로 이동해 재생됩니다.\n- OAuth 토큰은 Mac 로컬에만 저장되며, GitHub에는 결과만 올라갑니다.\n",
   "sections": [
     {
       "title": "Watch Later",
@@ -249,6 +249,16 @@
     {
       "title": "Playlists",
       "items": [
+        {
+          "videoId": "NIXTycy26hI",
+          "title": "클로드 코드 에이전트 팀 비용 50% 줄이는 4가지 비법!",
+          "channel": "짐코딩",
+          "publishedAt": "2026-03-07T02:00:33Z",
+          "thumbnail": "https://i.ytimg.com/vi/NIXTycy26hI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=NIXTycy26hI",
+          "kind": "playlist",
+          "playlistTitle": "Claude Team"
+        },
         {
           "videoId": "JcqsqFNFiWw",
           "title": "AI 바이브 코딩으로 프로그래밍 언어를 만들어봤습니다 | ChatGPT Codex",
@@ -1368,46 +1378,6 @@
           "url": "https://www.youtube.com/watch?v=VmJJONuR0Zw",
           "kind": "playlist",
           "playlistTitle": "Skills"
-        },
-        {
-          "videoId": "ty9uyJEY4EQ",
-          "title": "Deleted video",
-          "channel": "soonhak ahn",
-          "publishedAt": "2026-01-22T15:18:46Z",
-          "thumbnail": null,
-          "url": "https://www.youtube.com/watch?v=ty9uyJEY4EQ",
-          "kind": "playlist",
-          "playlistTitle": "Claude cowork"
-        },
-        {
-          "videoId": "F0rZncNpU28",
-          "title": "Claude in Excel이 바꿔놓은 엑셀 사용의 신세계",
-          "channel": "CaN Tips",
-          "publishedAt": "2026-02-07T03:06:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/F0rZncNpU28/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=F0rZncNpU28",
-          "kind": "playlist",
-          "playlistTitle": "Claude cowork"
-        },
-        {
-          "videoId": "7wneTLhqeL8",
-          "title": "Private video",
-          "channel": "soonhak ahn",
-          "publishedAt": "2026-02-12T14:47:34Z",
-          "thumbnail": null,
-          "url": "https://www.youtube.com/watch?v=7wneTLhqeL8",
-          "kind": "playlist",
-          "playlistTitle": "Claude cowork"
-        },
-        {
-          "videoId": "XWZ2IvgsFrk",
-          "title": "클로드코워크 윈도우 버전 출시! 직장인, 1인창업도구, 미증시 400조 삭제의 주역 #클로드 #클로드코워크 #클로드코드",
-          "channel": "노모어매뉴얼",
-          "publishedAt": "2026-02-12T08:35:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/XWZ2IvgsFrk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=XWZ2IvgsFrk",
-          "kind": "playlist",
-          "playlistTitle": "Claude cowork"
         }
       ]
     }
